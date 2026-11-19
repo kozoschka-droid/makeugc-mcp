@@ -1,0 +1,92 @@
+{
+ "out": "../../out/newbrand/08_pickcolor_t07.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t07_tiktok_7318_c.mp3",
+ "music_start": 26.0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 17.53,
+   "end": 18.47
+  },
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 18.5,
+   "end": 19.6
+  },
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 0,
+   "end": 2.3
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 6.3,
+   "end": 8.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 8.0,
+   "end": 8.9
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 9.0,
+   "end": 10.5
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 17.0,
+   "end": 18.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 9.0,
+   "end": 11.0
+  }
+ ],
+ "texts": [
+  {
+   "text": "Pick your color 👇",
+   "start": 0,
+   "end": 99,
+   "pos": "top"
+  },
+  {
+   "text": "Color 1 🧡",
+   "start": 2.04,
+   "end": 4.34,
+   "pos": "center"
+  },
+  {
+   "text": "Color 2 💜",
+   "start": 4.34,
+   "end": 6.04,
+   "pos": "center"
+  },
+  {
+   "text": "Color 3 💙",
+   "start": 6.04,
+   "end": 6.94,
+   "pos": "center"
+  },
+  {
+   "text": "Color 4 💚",
+   "start": 6.94,
+   "end": 8.44,
+   "pos": "center"
+  },
+  {
+   "text": "Color 5 🩷",
+   "start": 8.44,
+   "end": 9.44,
+   "pos": "center"
+  },
+  {
+   "text": "Comment your number 👇",
+   "start": 9.44,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

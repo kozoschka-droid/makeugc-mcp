@@ -1,0 +1,52 @@
+{
+ "out": "../../out/newbrand/05_colors_t13.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t13_tiktok_1293762064.mp3",
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 17.53,
+   "end": 18.47
+  },
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 18.5,
+   "end": 19.6
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 15.0,
+   "end": 19.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 6.3,
+   "end": 10.5,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 21.7,
+   "end": 24.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 9.43,
+   "end": 10.27
+  }
+ ],
+ "texts": [
+  {
+   "text": "I didn't expect it to change colors 😳🌈",
+   "start": 0,
+   "end": 99,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COLOR\" to get yours 🌈",
+   "start": 7.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

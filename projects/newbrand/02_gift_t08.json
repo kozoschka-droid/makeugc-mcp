@@ -1,0 +1,58 @@
+{
+ "out": "../../out/newbrand/02_gift_t08.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t08_tiktok_7318_d.mp3",
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 0,
+   "end": 1.8
+  },
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 12.2,
+   "end": 13.6
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 5.0,
+   "end": 7.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 9.8,
+   "end": 12.07
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 15.0,
+   "end": 17.5,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 14.8,
+   "end": 16.8
+  }
+ ],
+ "texts": [
+  {
+   "text": "The coziest Christmas gift this year 🎁🔥",
+   "start": 0,
+   "end": 6.0,
+   "pos": "top"
+  },
+  {
+   "text": "It glows like a real fireplace 🔥",
+   "start": 6.0,
+   "end": 99,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"GIFT\" and I'll send you the link 🎁",
+   "start": 8.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

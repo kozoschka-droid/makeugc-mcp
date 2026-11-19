@@ -1,0 +1,48 @@
+{
+ "out": "../../out/newbrand/04_overthinkers_t06.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t06_tiktok_7318_b.mp3",
+ "music_start": 2.25,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v1.mov",
+   "start": 1.17,
+   "end": 4.58
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 0.0,
+   "end": 1.6
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 10.6,
+   "end": 13.6
+  },
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 11.3,
+   "end": 12.8,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 9.5,
+   "end": 12.5
+  }
+ ],
+ "texts": [
+  {
+   "text": "Overthinkers, this will change your nights 😮‍💨🔥",
+   "start": 0,
+   "end": 6.5,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"CALM\" for the link 🕯️",
+   "start": 6.5,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

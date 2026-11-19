@@ -1,0 +1,79 @@
+{
+ "out": "../../out/newbrand/09_9pm_t09.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t09_tiktok_7318_e.mp3",
+ "music_start": 9.0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v1.mov",
+   "start": 0,
+   "end": 0.77
+  },
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 0,
+   "end": 0.53
+  },
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 0.53,
+   "end": 1.37
+  },
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 1.37,
+   "end": 2.9
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 4.17,
+   "end": 5.23,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 2.33,
+   "end": 4.23
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 7.03,
+   "end": 8.37
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 9.4,
+   "end": 11.4
+  },
+  {
+   "src": "../../assets/fireplace/raw/v1.mov",
+   "start": 1.17,
+   "end": 4.58
+  },
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 4.8,
+   "end": 7.0
+  }
+ ],
+ "texts": [
+  {
+   "text": "My new 9PM routine 🌙",
+   "start": 0,
+   "end": 10.0,
+   "pos": "top"
+  },
+  {
+   "text": "Lights off… 🔥",
+   "start": 10.0,
+   "end": 99,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"NIGHT\" for the link 🌙",
+   "start": 11.5,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

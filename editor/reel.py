@@ -237,7 +237,7 @@ def build(cfg_path):
         y = int(H * yc - h / 2)
         s, e = float(t.get("start", 0)), min(float(t.get("end", total)), total)
         inputs += ["-loop", "1", "-t", f"{total:.3f}", "-i", png]
-        fparts.append(f"{last}[{idx}:v]overlay=0:{y}:enable='between(t,{s},{e})'[o{j}]")
+        fparts.append(f"{last}[{idx}:v]overlay=0:{y}:enable='gte(t,{s})*lt(t,{e})'[o{j}]")
         last = f"[o{j}]"
         idx += 1
 

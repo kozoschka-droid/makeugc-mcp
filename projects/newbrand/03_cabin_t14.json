@@ -1,0 +1,68 @@
+{
+ "out": "../../out/newbrand/03_cabin_t14.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t14_tiktok_654462780.mp3",
+ "music_start": 0.05,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 0,
+   "end": 2.37
+  },
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 1.8,
+   "end": 2.59
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 3.0,
+   "end": 3.79
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 6.3,
+   "end": 7.09,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 4.1,
+   "end": 4.89
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 11.5,
+   "end": 12.29
+  },
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 9.8,
+   "end": 10.59
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 6.3,
+   "end": 9.46
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 9.0,
+   "end": 11.370000000000001
+  }
+ ],
+ "texts": [
+  {
+   "text": "This turns any room into a cozy cabin 🌲🔥",
+   "start": 0,
+   "end": 6.0,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"FIRE\" to get yours 🔥",
+   "start": 6.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}
