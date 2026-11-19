@@ -9,7 +9,7 @@ project.json:
   "out": "out/video.mp4",
   "clips": [                                  # кліпи по черзі
     {"src": "raw/1.mp4", "start": 0.0, "end": 3.0},
-    {"src": "raw/2.mp4", "start": 1.2, "end": 2.0, "speed": 1.0, "zoom": 1.08}
+    {"src": "raw/2.mp4", "start": 1.2, "end": 2.0, "speed": 1.0, "zoom": 1.08, "mirror": true}
   ],
   "texts": [                                  # текст поверх відео
     {"text": "This turns your room into the ocean 😲🌊", "start": 0, "end": 99, "pos": "top"},
@@ -109,22 +109,51 @@ def layout(text):
     lines = []
     space = _font.getlength(" ")
     for parts in words:
-        cur, cur_w = [], 0
+        # одиниці переносу: слово разом з емодзі, що йдуть одразу за ним
+        units, unit = [], []
         for tok in parts:
             if not tok[0] and tok[1].isspace():
+                if unit:
+                    units.append(unit)
+                    unit = []
+            else:
+                unit.append(tok)
+        if unit:
+            units.append(unit)
+        # емодзі, відокремлені пробілом, теж не лишаємо самих на рядку
+        merged = []
+        for u in units:
+            if merged and all(t[0] for t in u):
+                merged[-1] = merged[-1] + [(False, " ")] + u
+            else:
+                merged.append(u)
+        widths = [sum(word_width(t) if t[0] or not t[1].isspace() else space for t in u)
+                  for u in merged]
+
+        def greedy(limit):
+            out, cur, cur_w = [], [], 0
+            for u, w in zip(merged, widths):
+                if cur and cur_w + space + w > limit:
+                    out.append(cur)
+                    cur, cur_w = [], 0
                 if cur:
-                    cur.append(tok)
+                    cur.append((False, " "))
                     cur_w += space
-                continue
-            w = word_width(tok)
-            if cur and cur_w + w > MAX_TEXT_W:
-                while cur and not cur[-1][0] and cur[-1][1].isspace():
-                    cur.pop()
-                lines.append(cur)
-                cur, cur_w = [], 0
-            cur.append(tok)
-            cur_w += w
-        lines.append(cur)
+                cur += u
+                cur_w += w
+            out.append(cur)
+            return out
+
+        # вирівнювання: зменшуємо ширину, поки кількість рядків не зросте
+        best = greedy(MAX_TEXT_W)
+        limit = MAX_TEXT_W
+        while limit > 200:
+            limit -= 10
+            trial = greedy(limit)
+            if len(trial) > len(best):
+                break
+            best = trial
+        lines += best
     return lines
 
 
@@ -178,8 +207,9 @@ def build(cfg_path):
         dur = (end - start) / speed
         total += dur
         zw, zh = int(W * zoom) // 2 * 2, int(H * zoom) // 2 * 2
+        flip = "hflip," if c.get("mirror") else ""
         fparts.append(
-            f"[{i}:v]scale={zw}:{zh}:force_original_aspect_ratio=increase,"
+            f"[{i}:v]{flip}scale={zw}:{zh}:force_original_aspect_ratio=increase,"
             f"crop={W}:{H},setsar=1,fps={FPS},setpts=(PTS-STARTPTS)/{speed},"
             f"trim=duration={dur:.3f},format=yuv420p[v{i}]")
         vlabels.append(f"[v{i}]")
