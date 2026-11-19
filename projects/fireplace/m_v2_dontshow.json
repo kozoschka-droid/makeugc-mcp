@@ -1,0 +1,85 @@
+{
+ "out": "../../out/fireplace_v2_dontshow_track1.mp4",
+ "audio": "music",
+ "music": "../../assets/music/track1_vapurly_drop10s.mp3",
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 1.1,
+   "end": 2.6
+  },
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 3.2,
+   "end": 4.7,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 5.5,
+   "end": 6.5
+  },
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 5.6,
+   "end": 6.75,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 6.8,
+   "end": 8.03
+  },
+  {
+   "src": "../../assets/fireplace/raw/v1.mov",
+   "start": 0.0,
+   "end": 0.77
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 9.4,
+   "end": 10.4
+  },
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 8.03,
+   "end": 8.83
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 10.4,
+   "end": 11.45
+  },
+  {
+   "src": "../../assets/fireplace/raw/v1.mov",
+   "start": 1.17,
+   "end": 4.58
+  }
+ ],
+ "texts": [
+  {
+   "text": "Don't show a cozy girl this… 🤫🔥",
+   "start": 0,
+   "end": 3.0,
+   "pos": "top"
+  },
+  {
+   "text": "Just wait for it… 👀",
+   "start": 3.0,
+   "end": 10.0,
+   "pos": "top"
+  },
+  {
+   "text": "It's a humidifier AND a fireplace 😍",
+   "start": 10.0,
+   "end": 99,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" for the link 🕯️",
+   "start": 11.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

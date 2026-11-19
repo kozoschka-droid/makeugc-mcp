@@ -1,0 +1,12 @@
+{"out":"../../out/fireplace_v1_cabin_track2.mp4","audio":"music","music":"../../assets/music/track2_ornament_136bpm.mp3",
+ "clips":[
+  {"src":"../../assets/fireplace/raw/v3.mp4","start":0.0,"end":2.3},
+  {"src":"../../assets/fireplace/raw/v4.mp4","start":1.2,"end":2.15,"zoom":1.1},
+  {"src":"../../assets/fireplace/raw/v4.mp4","start":4.0,"end":4.42},
+  {"src":"../../assets/fireplace/raw/v3.mp4","start":5.7,"end":6.63,"mirror":true},
+  {"src":"../../assets/fireplace/raw/v5.mp4","start":8.3,"end":9.2},
+  {"src":"../../assets/fireplace/raw/v2.mp4","start":9.9,"end":10.86},
+  {"src":"../../assets/fireplace/raw/v5.mp4","start":15.0,"end":17.54}],
+ "texts":[
+  {"text":"This turns any room into a cozy cabin night 🔥🌲","start":0,"end":5.5,"pos":"top"},
+  {"text":"Comment \"FIRE\" to get yours 🔥","start":5.5,"end":99,"pos":"bottom"}]}
