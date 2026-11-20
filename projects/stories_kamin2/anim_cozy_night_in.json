@@ -1,0 +1,4 @@
+[{"out":"media/kamin2/stories/templates/cozy_night_in_anim.mp4","music":"assets/music/t08_tiktok_7318_d.mp3",
+ "clips":[{"src":"assets/fireplace/raw/v12.mp4","start":9.5,"dur":3.6},{"src":"assets/fireplace/raw/v12.mp4","start":11.5,"dur":1.9},{"src":"assets/fireplace/raw/v12.mp4","start":5.7,"dur":2.5}],
+ "phrases":[{"words":["cozy","night","in"],"start":0.3,"end":3.3},{"words":["lights off","flames on"],"start":3.9,"end":7.6,"size":170}],
+ "cta":"reply \"COZY\" for the link","cta_start":5.0}]
