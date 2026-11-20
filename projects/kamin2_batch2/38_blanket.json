@@ -1,0 +1,49 @@
+{
+ "out": "../../out/kamin2_b2/38_blanket.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t06_tiktok_7318_b.mp3",
+ "music_start": 2.25,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 5.7,
+   "end": 7.4
+  },
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 7.5,
+   "end": 9.4,
+   "zoom": 1.06
+  },
+  {
+   "src": "../../assets/fireplace/raw/v10.mp4",
+   "start": 11.5,
+   "end": 14.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 11.5,
+   "end": 13.4,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 9.5,
+   "end": 11.3
+  }
+ ],
+ "texts": [
+  {
+   "text": "Blanket + this = perfect evening 🛋️🔥",
+   "start": 0,
+   "end": 6.0,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" and I'll send you the link 🔥",
+   "start": 6.5,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

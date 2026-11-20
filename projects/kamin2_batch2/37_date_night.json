@@ -1,0 +1,53 @@
+{
+ "out": "../../out/kamin2_b2/37_date_night.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t08_tiktok_7318_d.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 9.5,
+   "end": 11.3
+  },
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 11.5,
+   "end": 13.4
+  },
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 5.7,
+   "end": 7.4,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 7.5,
+   "end": 9.4
+  },
+  {
+   "src": "../../assets/fireplace/raw/v10.mp4",
+   "start": 11.5,
+   "end": 13.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 0,
+   "end": 1.0
+  }
+ ],
+ "texts": [
+  {
+   "text": "Our new favorite date night spot 🥰🔥",
+   "start": 0,
+   "end": 5.5,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" for the link 🕯️",
+   "start": 6.5,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

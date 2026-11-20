@@ -1,0 +1,73 @@
+{
+ "out": "../../out/kamin2_b2/39_setup_10s.mp4",
+ "audio": "music",
+ "music": "../../assets/music/track1_vapurly_drop10s.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v10.mp4",
+   "start": 0.5,
+   "end": 2.5
+  },
+  {
+   "src": "../../assets/fireplace/raw/v10.mp4",
+   "start": 3.0,
+   "end": 4.6
+  },
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 1.0,
+   "end": 2.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v10.mp4",
+   "start": 4.6,
+   "end": 6.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 3.5,
+   "end": 5.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v10.mp4",
+   "start": 8.0,
+   "end": 9.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v10.mp4",
+   "start": 9.3,
+   "end": 10.8
+  },
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 7.5,
+   "end": 9.4
+  },
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 11.5,
+   "end": 13.0
+  }
+ ],
+ "texts": [
+  {
+   "text": "Setting up my fireplace diffuser ⏱️",
+   "start": 0,
+   "end": 10.0,
+   "pos": "top"
+  },
+  {
+   "text": "Wait… it's a humidifier too?! 😍",
+   "start": 10.0,
+   "end": 99,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" to get yours ✨",
+   "start": 11.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "out": "../../out/kamin2_b2/40_mood_color.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t13_tiktok_1293762064.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 11.5,
+   "end": 13.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v10.mp4",
+   "start": 15.5,
+   "end": 17.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v10.mp4",
+   "start": 18.0,
+   "end": 19.5
+  },
+  {
+   "src": "../../assets/fireplace/raw/v10.mp4",
+   "start": 20.0,
+   "end": 21.6,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 8.0,
+   "end": 9.6
+  },
+  {
+   "src": "../../assets/fireplace/raw/v12.mp4",
+   "start": 7.5,
+   "end": 9.4
+  }
+ ],
+ "texts": [
+  {
+   "text": "Pick a color for your mood 🌈",
+   "start": 0,
+   "end": 99,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" for the link 🕯️",
+   "start": 6.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}
