@@ -1,0 +1,78 @@
+{
+ "out": "../../out/kamin2_b2/15_wait_flames.mp4",
+ "audio": "music",
+ "music": "../../assets/music/track1_vapurly_drop10s.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 14.2,
+   "end": 15.8,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 4.0,
+   "end": 5.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 9.25,
+   "end": 11.45,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 4.8,
+   "end": 6.3
+  },
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 1.2,
+   "end": 2.4
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 3.07,
+   "end": 4.27,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 7.01,
+   "end": 8.31
+  },
+  {
+   "src": "../../assets/fireplace/raw/v1.mov",
+   "start": 1.38,
+   "end": 3.13,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 17.0,
+   "end": 18.7,
+   "zoom": 1.05
+  }
+ ],
+ "texts": [
+  {
+   "text": "Wait for the flames… 👀",
+   "start": 0,
+   "end": 10.0,
+   "pos": "top"
+  },
+  {
+   "text": "Okay this is SO cozy 😍",
+   "start": 10.0,
+   "end": 99,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" and I'll send you the link 🔥",
+   "start": 11.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

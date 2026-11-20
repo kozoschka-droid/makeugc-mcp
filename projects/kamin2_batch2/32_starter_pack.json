@@ -1,0 +1,56 @@
+{
+ "out": "../../out/kamin2_b2/32_starter_pack.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t03_rachel_rosie_home.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 7.08,
+   "end": 8.75,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 4.8,
+   "end": 6.6,
+   "zoom": 1.08
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 8.72,
+   "end": 10.39
+  },
+  {
+   "src": "../../assets/fireplace/raw/v1.mov",
+   "start": 1.38,
+   "end": 3.88
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 0,
+   "end": 0.9,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 14.74,
+   "end": 15.7,
+   "zoom": 1.05
+  }
+ ],
+ "texts": [
+  {
+   "text": "Cozy girl starter pack ✅🔥",
+   "start": 0,
+   "end": 6.0,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" for the link 🕯️",
+   "start": 5.5,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

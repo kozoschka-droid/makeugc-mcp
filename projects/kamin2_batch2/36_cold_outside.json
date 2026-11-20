@@ -1,0 +1,57 @@
+{
+ "out": "../../out/kamin2_b2/36_cold_outside.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t08_tiktok_7318_d.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 9.83,
+   "end": 11.41,
+   "zoom": 1.09
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 13.11,
+   "end": 16.27,
+   "zoom": 1.06
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 0,
+   "end": 0.9
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 12.0,
+   "end": 14.0,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 17.03,
+   "end": 18.61,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 6.68,
+   "end": 8.46,
+   "zoom": 1.09
+  }
+ ],
+ "texts": [
+  {
+   "text": "Cold outside, cozy inside ❄️🔥",
+   "start": 0,
+   "end": 6.0,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" and I'll send you the link 🔥",
+   "start": 7.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

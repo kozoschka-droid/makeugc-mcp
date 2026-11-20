@@ -1,0 +1,82 @@
+{
+ "out": "../../out/kamin2_b2/18_not_fire.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t09_tiktok_7318_e.mp3",
+ "music_start": 9.0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 4.5,
+   "end": 6.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 4.0,
+   "end": 5.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 1.2,
+   "end": 2.4
+  },
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 3.6,
+   "end": 4.8,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 3.2,
+   "end": 4.7
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 5.0,
+   "end": 6.8
+  },
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 9.07,
+   "end": 9.57
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 7.14,
+   "end": 8.44,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 4.87,
+   "end": 6.37,
+   "zoom": 1.09
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 0.02,
+   "end": 1.52,
+   "mirror": true
+  }
+ ],
+ "texts": [
+  {
+   "text": "It's not real fire… 🤯",
+   "start": 0,
+   "end": 10.0,
+   "pos": "top"
+  },
+  {
+   "text": "It's cool mist + light 💨✨",
+   "start": 10.0,
+   "end": 99,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" and I'll send you the link 🔥",
+   "start": 11.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

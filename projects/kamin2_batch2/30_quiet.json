@@ -1,0 +1,59 @@
+{
+ "out": "../../out/kamin2_b2/30_quiet.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t11_arabic_original.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 12.69,
+   "end": 13.8
+  },
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 11.55,
+   "end": 12.66
+  },
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 7.57,
+   "end": 9.24,
+   "zoom": 1.11
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 6.0,
+   "end": 7.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 0.12,
+   "end": 1.23
+  },
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 20.0,
+   "end": 21.6
+  },
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 9.8,
+   "end": 12.07,
+   "mirror": true
+  }
+ ],
+ "texts": [
+  {
+   "text": "Looks like fire. Smells like heaven. Quiet as a whisper 🤫",
+   "start": 0,
+   "end": 6.0,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" and I'll send you the link 🔥",
+   "start": 5.87,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

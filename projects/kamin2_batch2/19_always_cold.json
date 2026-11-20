@@ -1,0 +1,61 @@
+{
+ "out": "../../out/kamin2_b2/19_always_cold.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t08_tiktok_7318_d.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 12.5,
+   "end": 14.5,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 10.46,
+   "end": 12.04,
+   "zoom": 1.09
+  },
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 10.26,
+   "end": 11.84
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 9.0,
+   "end": 10.3
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 12.31,
+   "end": 13.89
+  },
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 9.8,
+   "end": 12.07,
+   "zoom": 1.06
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 19.72,
+   "end": 20.41,
+   "zoom": 1.1
+  }
+ ],
+ "texts": [
+  {
+   "text": "Gift idea for the person who's always cold 🥶🎁",
+   "start": 0,
+   "end": 6.0,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" to get yours ✨",
+   "start": 7.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

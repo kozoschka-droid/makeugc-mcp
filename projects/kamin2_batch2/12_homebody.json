@@ -1,0 +1,72 @@
+{
+ "out": "../../out/kamin2_b2/12_homebody.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t11_arabic_original.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 15.57,
+   "end": 16.68,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 17.43,
+   "end": 18.54
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 15.1,
+   "end": 16.21,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 9.0,
+   "end": 10.3
+  },
+  {
+   "src": "../../assets/fireplace/raw/v1.mov",
+   "start": 2.47,
+   "end": 3.58,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 0,
+   "end": 0.9
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 6.0,
+   "end": 7.0,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 6.6,
+   "end": 8.5,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 20.24,
+   "end": 20.7
+  }
+ ],
+ "texts": [
+  {
+   "text": "Tell me you're a homebody without telling me 🏠🔥",
+   "start": 0,
+   "end": 6.0,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" and I'll send you the link 🔥",
+   "start": 6.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

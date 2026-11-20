@@ -1,0 +1,52 @@
+{
+ "out": "../../out/kamin2_b2/11_pov_coziest.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t14_tiktok_654462780.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 13.26,
+   "end": 16.42,
+   "zoom": 1.05
+  },
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 13.0,
+   "end": 14.9,
+   "mirror": true,
+   "zoom": 1.09
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 19.0,
+   "end": 20.5,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 0.05,
+   "end": 1.62
+  },
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 28.62,
+   "end": 30.49,
+   "mirror": true
+  }
+ ],
+ "texts": [
+  {
+   "text": "POV: you found the coziest thing on the internet 🔥",
+   "start": 0,
+   "end": 6.0,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" for the link 🕯️",
+   "start": 6.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

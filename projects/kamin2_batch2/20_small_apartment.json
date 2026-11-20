@@ -1,0 +1,52 @@
+{
+ "out": "../../out/kamin2_b2/20_small_apartment.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t03_rachel_rosie_home.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v1.mov",
+   "start": 2.02,
+   "end": 3.69,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 14.1,
+   "end": 15.77,
+   "zoom": 1.06
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 17.0,
+   "end": 18.7,
+   "mirror": true,
+   "zoom": 1.08
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 11.05,
+   "end": 12.71,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 32.5,
+   "end": 35.0
+  }
+ ],
+ "texts": [
+  {
+   "text": "Small apartment, big cozy energy 🏙️🔥",
+   "start": 0,
+   "end": 5.7,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" for the link 🕯️",
+   "start": 5.2,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

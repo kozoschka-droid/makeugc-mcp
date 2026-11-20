@@ -1,0 +1,76 @@
+{
+ "out": "../../out/kamin2_b2/21_started_going.mp4",
+ "audio": "music",
+ "music": "../../assets/music/track1_vapurly_drop10s.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 0.3,
+   "end": 1.8
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 1.1,
+   "end": 2.6,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 6.8,
+   "end": 8.03
+  },
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 4.8,
+   "end": 6.3
+  },
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 14.2,
+   "end": 15.8,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 9.57,
+   "end": 11.29
+  },
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 3.8,
+   "end": 4.75,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 19.0,
+   "end": 20.5
+  },
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 13.0,
+   "end": 14.9
+  }
+ ],
+ "texts": [
+  {
+   "text": "How it started 📦",
+   "start": 0,
+   "end": 10.0,
+   "pos": "top"
+  },
+  {
+   "text": "How it's going 🔥",
+   "start": 10.0,
+   "end": 99,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" and I'll send you the link 🔥",
+   "start": 11.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

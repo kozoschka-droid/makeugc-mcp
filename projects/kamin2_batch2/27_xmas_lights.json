@@ -1,0 +1,79 @@
+{
+ "out": "../../out/kamin2_b2/27_xmas_lights.mp4",
+ "audio": "music",
+ "music": "../../assets/music/track1_vapurly_drop10s.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 12.2,
+   "end": 13.8
+  },
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 2.4,
+   "end": 3.4
+  },
+  {
+   "src": "../../assets/fireplace/raw/v4.mp4",
+   "start": 6.0,
+   "end": 7.03
+  },
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 3.2,
+   "end": 4.7
+  },
+  {
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 9.24,
+   "end": 11.24
+  },
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 2.4,
+   "end": 3.4,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 3.17,
+   "end": 3.74
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 7.01,
+   "end": 8.31
+  },
+  {
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 9.98,
+   "end": 11.73
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 20.63,
+   "end": 22.38
+  }
+ ],
+ "texts": [
+  {
+   "text": "When the Christmas lights aren't enough 🎄",
+   "start": 0,
+   "end": 10.0,
+   "pos": "top"
+  },
+  {
+   "text": "Now THAT's cozy 🔥",
+   "start": 10.0,
+   "end": 99,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" and I'll send you the link 🔥",
+   "start": 11.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "out": "../../out/kamin2_b2/28_reading_nook.mp4",
+ "audio": "music",
+ "music": "../../assets/music/t10_anastasia_original.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 11.0,
+   "end": 12.8
+  },
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 6.6,
+   "end": 8.5,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 10.38,
+   "end": 12.49
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 6.0,
+   "end": 7.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v1.mov",
+   "start": 1.17,
+   "end": 4.58,
+   "zoom": 1.08
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 7.16,
+   "end": 7.94,
+   "zoom": 1.08
+  }
+ ],
+ "texts": [
+  {
+   "text": "Reading nook upgrade 📖🔥",
+   "start": 0,
+   "end": 6.0,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" to get yours ✨",
+   "start": 7.0,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}

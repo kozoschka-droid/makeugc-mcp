@@ -1,0 +1,50 @@
+{
+ "out": "../../out/kamin2_b2/34_best_purchase.mp4",
+ "audio": "music",
+ "music": "../../assets/music/track2_ornament_136bpm.mp3",
+ "music_start": 0,
+ "clips": [
+  {
+   "src": "../../assets/fireplace/raw/v7.mp4",
+   "start": 6.6,
+   "end": 8.5,
+   "zoom": 1.06
+  },
+  {
+   "src": "../../assets/fireplace/raw/v6.mp4",
+   "start": 6.3,
+   "end": 8.0
+  },
+  {
+   "src": "../../assets/fireplace/raw/v5.mp4",
+   "start": 9.0,
+   "end": 10.3,
+   "mirror": true
+  },
+  {
+   "src": "../../assets/fireplace/raw/v9.mp4",
+   "start": 0,
+   "end": 1.9
+  },
+  {
+   "src": "../../assets/fireplace/raw/v3.mp4",
+   "start": 13.0,
+   "end": 14.9,
+   "mirror": true
+  }
+ ],
+ "texts": [
+  {
+   "text": "Best purchase I made this winter 🔥",
+   "start": 0,
+   "end": 5.2,
+   "pos": "top"
+  },
+  {
+   "text": "Comment \"COZY\" to get yours ✨",
+   "start": 4.7,
+   "end": 99,
+   "pos": "bottom"
+  }
+ ]
+}
