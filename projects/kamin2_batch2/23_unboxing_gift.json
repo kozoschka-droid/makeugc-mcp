@@ -5,10 +5,10 @@
  "music_start": 0,
  "clips": [
   {
+   "mirror": true,
    "src": "../../assets/fireplace/raw/v8.mp4",
-   "start": 12.2,
-   "end": 13.8,
-   "mirror": true
+   "start": 6.0,
+   "end": 7.6
   },
   {
    "src": "../../assets/fireplace/raw/v2.mp4",
@@ -22,9 +22,9 @@
    "end": 4.8
   },
   {
-   "src": "../../assets/fireplace/raw/v5.mp4",
-   "start": 4.0,
-   "end": 5.0
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 0,
+   "end": 1.0
   },
   {
    "src": "../../assets/fireplace/raw/v6.mp4",

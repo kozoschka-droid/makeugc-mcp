@@ -5,15 +5,15 @@
  "music_start": 0,
  "clips": [
   {
+   "mirror": true,
    "src": "../../assets/fireplace/raw/v8.mp4",
-   "start": 14.2,
-   "end": 15.8,
-   "mirror": true
+   "start": 6.0,
+   "end": 7.6
   },
   {
-   "src": "../../assets/fireplace/raw/v5.mp4",
-   "start": 4.0,
-   "end": 5.0
+   "src": "../../assets/fireplace/raw/v2.mp4",
+   "start": 0,
+   "end": 1.0
   },
   {
    "src": "../../assets/fireplace/raw/v8.mp4",
@@ -38,9 +38,9 @@
    "mirror": true
   },
   {
-   "src": "../../assets/fireplace/raw/v5.mp4",
-   "start": 7.01,
-   "end": 8.31
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 17.6,
+   "end": 18.9
   },
   {
    "src": "../../assets/fireplace/raw/v1.mov",

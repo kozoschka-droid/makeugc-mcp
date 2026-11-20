@@ -3,12 +3,13 @@
 import json, random, os
 R = "../../assets/fireplace/raw/"
 M = "../../assets/music/"
+# НЕ показувати набір олій з коробки (v5 2–8.6 с, v8 12–16 с): олії не входять у комплект
 UNLIT = {  # полум'я ще НЕ горить
- "box": [("v8",0,1.5),("v8",2.0,3.2),("v8",4.0,5.4),("v8",6.0,8.0),("v8",9.0,11.5),("v8",12.2,13.8),("v8",14.2,15.8),
+ "box": [("v8",0,1.5),("v8",2.0,3.2),("v8",4.0,5.4),("v8",6.0,8.0),("v8",9.0,11.5),
          ("v2",0,1.67),("v2",1.67,3.13),("v5",0.2,1.8),("v6",0.3,1.8),("v7",0,1.0),("v9",3.0,4.3),("v9",4.3,5.6),("v4",1.1,2.6)],
- "fill":[("v2",3.2,4.7),("v2",4.5,6.0),("v2",6.8,8.03),("v4",2.3,3.6),("v4",4.0,5.5),("v4",6.0,7.03),("v5",4.0,5.0),("v5",5.0,6.8),
-         ("v6",2.0,3.0),("v6",3.0,4.5),("v7",1.2,2.4),("v7",2.4,3.4),("v3",2.4,3.4),("v3",3.6,4.8),("v3",4.8,6.3),("v8",9.0,11.5),("v8",14.2,15.8)],
- "remote":[("v8",17.5,18.9),("v2",8.03,8.75),("v4",9.4,11.4),("v7",3.8,4.75),("v6",4.6,5.6),("v5",7.0,8.5)],
+ "fill":[("v2",3.2,4.7),("v2",4.5,6.0),("v2",6.8,8.03),("v4",2.3,3.6),("v4",4.0,5.5),("v4",6.0,7.03),
+         ("v6",2.0,3.0),("v6",3.0,4.5),("v7",1.2,2.4),("v7",2.4,3.4),("v3",2.4,3.4),("v3",3.6,4.8),("v3",4.8,6.3),("v8",9.0,11.5),],
+ "remote":[("v8",17.5,18.9),("v2",8.03,8.75),("v4",9.4,11.4),("v7",3.8,4.75),("v6",4.6,5.6)],
 }
 LIT = {  # полум'я горить
  "warm":[("v1",1.17,4.58),("v2",9.8,12.07),("v3",0,1.5),("v3",7.0,9.4),("v4",0,0.9),("v4",12.0,14.0),("v4",14.8,16.8),("v4",17.0,18.7),
@@ -39,7 +40,7 @@ REELS = [
  ("14_makes_sense","t13","B",None,["warm","color","warm"],"A fireplace that's also a humidifier? Makes sense 💧🔥",None,10),
  ("15_wait_flames","track1","A",["box","fill","fill","remote"],["warm","dark"],"Wait for the flames… 👀","Okay this is SO cozy 😍",13.5),
  ("16_pretend","t06","B",None,["warm","dark","warm"],"Me pretending I have a real fireplace 😌🔥",None,11),
- ("17_essential","t05","A",["box","fill","remote"],["warm","warm"],"The cozy season essential you didn't know you needed 🍂","It even smells amazing 🕯️",12),
+ ("17_essential","t05","A",["box","fill","remote"],["warm","warm"],"The cozy season essential you didn't know you needed 🍂","It's a humidifier too 💧",12),
  ("18_not_fire","t09","A",["fill","fill","remote"],["dark","hand"],"It's not real fire… 🤯","It's cool mist + light 💨✨",13),
  ("19_always_cold","t08","B",None,["warm","warm","xmas"],"Gift idea for the person who's always cold 🥶🎁",None,11),
  ("20_small_apartment","t03","B",None,["warm","color","warm"],"Small apartment, big cozy energy 🏙️🔥",None,9.5),
@@ -47,7 +48,7 @@ REELS = [
  ("22_rate_setup","t14","B",None,["warm","color","dark"],"Rate this cozy setup 1–10 👇",None,10),
  ("23_unboxing_gift","t05","A",["box","box","remote"],["warm","warm"],"Unboxing the coziest gift of the year 🎁","And then… 🤯",12),
  ("24_nightstand","t06","B",None,["dark","warm","dark"],"Your nightstand needs this 🌙",None,11),
- ("25_two_drops","t04","A",["fill","fill","remote"],["warm","warm"],"Add 2 drops of essential oil and… 🫗","Instant cabin vibes 🌲🔥",11),
+ ("25_two_drops","t04","A",["fill","fill","remote"],["warm","warm"],"Just add water and… 💧","Instant cabin vibes 🌲🔥",11),
  ("26_which_color","t07","B",None,["color","color","color"],"Which color would you pick? 🌈",None,10),
  ("27_xmas_lights","track1","A",["box","fill","fill","remote"],["xmas","warm"],"When the Christmas lights aren't enough 🎄","Now THAT's cozy 🔥",13.5),
  ("28_reading_nook","t10","B",None,["warm","dark","warm"],"Reading nook upgrade 📖🔥",None,11),

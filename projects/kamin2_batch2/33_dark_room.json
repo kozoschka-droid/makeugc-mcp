@@ -38,10 +38,10 @@
    "mirror": true
   },
   {
+   "mirror": true,
    "src": "../../assets/fireplace/raw/v8.mp4",
-   "start": 14.53,
-   "end": 15.25,
-   "mirror": true
+   "start": 0,
+   "end": 0.72
   },
   {
    "src": "../../assets/fireplace/raw/v7.mp4",

@@ -10,10 +10,10 @@
    "end": 3.13
   },
   {
-   "src": "../../assets/fireplace/raw/v5.mp4",
-   "start": 5.02,
-   "end": 6.69,
-   "mirror": true
+   "mirror": true,
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 6.0,
+   "end": 7.67
   },
   {
    "src": "../../assets/fireplace/raw/v2.mp4",

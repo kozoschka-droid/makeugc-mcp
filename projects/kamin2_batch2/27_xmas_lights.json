@@ -6,8 +6,8 @@
  "clips": [
   {
    "src": "../../assets/fireplace/raw/v8.mp4",
-   "start": 12.2,
-   "end": 13.8
+   "start": 6.0,
+   "end": 7.6
   },
   {
    "src": "../../assets/fireplace/raw/v7.mp4",
@@ -41,9 +41,9 @@
    "end": 3.74
   },
   {
-   "src": "../../assets/fireplace/raw/v5.mp4",
-   "start": 7.01,
-   "end": 8.31
+   "src": "../../assets/fireplace/raw/v8.mp4",
+   "start": 17.6,
+   "end": 18.9
   },
   {
    "src": "../../assets/fireplace/raw/v2.mp4",

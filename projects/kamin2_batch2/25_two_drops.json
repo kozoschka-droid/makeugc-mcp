@@ -5,10 +5,10 @@
  "music_start": 0,
  "clips": [
   {
+   "mirror": true,
    "src": "../../assets/fireplace/raw/v8.mp4",
-   "start": 14.2,
-   "end": 15.8,
-   "mirror": true
+   "start": 6.0,
+   "end": 7.6
   },
   {
    "src": "../../assets/fireplace/raw/v6.mp4",
@@ -52,7 +52,7 @@
  ],
  "texts": [
   {
-   "text": "Add 2 drops of essential oil and… 🫗",
+   "text": "Just add water and… 💧",
    "start": 0,
    "end": 5.0,
    "pos": "top"

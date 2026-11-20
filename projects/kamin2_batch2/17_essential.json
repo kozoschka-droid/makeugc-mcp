@@ -5,10 +5,10 @@
  "music_start": 0,
  "clips": [
   {
+   "mirror": true,
    "src": "../../assets/fireplace/raw/v8.mp4",
-   "start": 12.2,
-   "end": 13.8,
-   "mirror": true
+   "start": 6.0,
+   "end": 7.6
   },
   {
    "src": "../../assets/fireplace/raw/v3.mp4",
@@ -23,8 +23,8 @@
   },
   {
    "src": "../../assets/fireplace/raw/v8.mp4",
-   "start": 14.2,
-   "end": 15.9
+   "start": 9.0,
+   "end": 10.7
   },
   {
    "src": "../../assets/fireplace/raw/v6.mp4",
@@ -59,7 +59,7 @@
    "pos": "top"
   },
   {
-   "text": "It even smells amazing 🕯️",
+   "text": "It's a humidifier too 💧",
    "start": 7.3,
    "end": 99,
    "pos": "top"
