@@ -1,0 +1,12 @@
+[{"out":"media/kamin2/stories/day02/3_video_winter_mode.mp4","music":"assets/music/t06_tiktok_7318_b.mp3","music_start":2.25,
+ "clips":[{"src":"assets/fireplace/raw/v7.mp4","start":4.8,"dur":3.5},{"src":"assets/fireplace/raw/v12.mp4","start":11.5,"dur":1.9},{"src":"assets/fireplace/raw/v1.mov","start":1.2,"dur":2.6}],
+ "phrases":[{"words":["winter","mode","on"],"start":0.3,"end":3.4},{"words":["cozy","all night"],"start":4.0,"end":7.6,"size":180}],
+ "cta":"reply \"COZY\" for the link","cta_start":5.0},
+ {"out":"media/kamin2/stories/day03/3_video_evening_ritual.mp4","music":"assets/music/t10_anastasia_original.mp3",
+ "clips":[{"src":"assets/fireplace/raw/v12.mp4","start":5.7,"dur":1.7},{"src":"assets/fireplace/raw/v12.mp4","start":7.5,"dur":1.9},{"src":"assets/fireplace/raw/v10.mp4","start":11.5,"dur":2.4},{"src":"assets/fireplace/raw/v12.mp4","start":9.5,"dur":1.8}],
+ "phrases":[{"words":["my","evening","ritual"],"start":0.3,"end":3.6},{"words":["just add","water"],"start":4.2,"end":7.8,"size":180}],
+ "cta":"reply \"COZY\" for the link","cta_start":5.2},
+ {"out":"media/kamin2/stories/day04/3_video_pick_color.mp4","music":"assets/music/t13_tiktok_1293762064.mp3",
+ "clips":[{"src":"assets/fireplace/raw/v6.mp4","start":6.3,"dur":1.7},{"src":"assets/fireplace/raw/v10.mp4","start":15.5,"dur":1.5},{"src":"assets/fireplace/raw/v10.mp4","start":18.0,"dur":1.8},{"src":"assets/fireplace/raw/v8.mp4","start":26.5,"dur":1.8},{"src":"assets/fireplace/raw/v6.mp4","start":10.6,"dur":1.6}],
+ "phrases":[{"words":["7","flame","colors"],"start":0.3,"end":3.6},{"words":["which one","is yours?"],"start":4.2,"end":8.0,"size":160}],
+ "cta":"reply with your color","cta_start":5.2}]
