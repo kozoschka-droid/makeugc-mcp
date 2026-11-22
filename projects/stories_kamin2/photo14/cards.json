@@ -1,0 +1,80 @@
+[
+ {
+  "type": "promo",
+  "out": "media/kamin2/stories/photo14/p01_23_1300_promo.jpg",
+  "photo": "media/kamin2/photos_ai/ai15_xmas_coffee_table.jpg",
+  "kicker": "cozy season sale",
+  "title": "50% OFF",
+  "sub": "$139.95 → $69.95 · free US shipping"
+ },
+ {
+  "type": "faq",
+  "out": "media/kamin2/stories/photo14/p02_24_1300_faq.jpg",
+  "photo": "media/kamin2/photos_ai/ai18_bedroom_blue.png",
+  "n": 1,
+  "total": 4,
+  "cat": "Most asked",
+  "q": "Is it safe to leave on all night?",
+  "a": "Yes! There's no real fire and no heat, just cool water mist and LED light. One fill lasts 5+ hours.",
+  "tag": "No fire · No heat · 5+ hours",
+  "cta": "Reply \"COZY\" for the link"
+ },
+ {
+  "type": "poll",
+  "out": "media/kamin2/stories/photo14/p03_25_1300_poll.jpg",
+  "photo": "media/kamin2/photos_ai/ai16_gaming_purple2.png",
+  "q": "Which flame is your mood?",
+  "opts": [
+   "1 · Classic orange",
+   "2 · Purple vibes"
+  ],
+  "cta": "Reply 1 or 2"
+ },
+ {
+  "type": "shop",
+  "out": "media/kamin2/stories/photo14/p04_26_1300_shop.jpg",
+  "photo": "media/kamin2/photos_ai/ai12_gift_unwrapped.jpg",
+  "title": "The gift that gets a \"wow\"",
+  "sub": "Fireplace glow + humidifier in one",
+  "cta": "Reply \"COZY\" for the link"
+ },
+ {
+  "type": "faq",
+  "out": "media/kamin2/stories/photo14/p09_01_1300_faq.jpg",
+  "photo": "media/kamin2/photos_ai/ai22_white_bath_unlit.png",
+  "n": 2,
+  "total": 4,
+  "cat": "Good to know",
+  "q": "Is it really a humidifier?",
+  "a": "Yes! It has a 150 ml water tank and puts out cool mist for 5+ hours. The flame effect is just LED light.",
+  "tag": "150 ml tank · Cool mist · Quiet",
+  "cta": "DM me \"COZY\" for the link"
+ },
+ {
+  "type": "promo",
+  "out": "media/kamin2/stories/photo14/p10_02_1300_promo.jpg",
+  "photo": "media/kamin2/photos_ai/ai21_white_shelf_unlit.png",
+  "kicker": "still on sale",
+  "title": "HALF PRICE",
+  "sub": "now $69.95 · was $139.95"
+ },
+ {
+  "type": "shop",
+  "out": "media/kamin2/stories/photo14/p11_03_1300_shop.jpg",
+  "photo": "media/kamin2/photos_ai/ai19_white_studio_unlit.png",
+  "title": "Black or white?",
+  "sub": "Both fit any room. Both $69.95.",
+  "cta": "Reply \"COZY\" and get the link"
+ },
+ {
+  "type": "poll",
+  "out": "media/kamin2/stories/photo14/p13_05_1300_poll.jpg",
+  "photo": "media/kamin2/photos_ai/ai11_movie_couple.jpg",
+  "q": "Movie night pick?",
+  "opts": [
+   "1 · Rom-com",
+   "2 · Thriller"
+  ],
+  "cta": "Reply 1 or 2"
+ }
+]

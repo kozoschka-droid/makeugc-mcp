@@ -1,0 +1,239 @@
+[
+ {
+  "style": "pov",
+  "out": "media/kamin2/stories/photo14/p01_23_0900_pov.jpg",
+  "photo": "media/kamin2/photos_ai/ai11_movie_couple.jpg",
+  "cta": "Reply \"COZY\" for the link",
+  "text": "movie night, but make it cozy"
+ },
+ {
+  "style": "split",
+  "out": "media/kamin2/stories/photo14/p02_24_0900_split.jpg",
+  "photo": "media/kamin2/photos_ai/ai05_window_snow_unlit.png",
+  "cta": "Reply \"FIRE\" for the link",
+  "photo2": "media/kamin2/photos_ai/ai13_window_cocoa.jpg",
+  "top": "lights off",
+  "bottom": "flames on"
+ },
+ {
+  "style": "quote",
+  "out": "media/kamin2/stories/photo14/p03_25_0900_quote.jpg",
+  "photo": "media/kamin2/photos_ai/ai10_reading_nook.jpg",
+  "cta": "Reply \"COZY\" for the link",
+  "lines": [
+   "a book, a blanket",
+   "and this glow"
+  ],
+  "small": "that's the whole plan tonight"
+ },
+ {
+  "style": "typewriter",
+  "out": "media/kamin2/stories/photo14/p04_26_0900_typewriter.jpg",
+  "photo": "media/kamin2/photos_ai/ai14_desk_laptop.jpg",
+  "cta": "Reply \"COZY\" and get the link",
+  "lines": [
+   "to-do:",
+   "> finish work",
+   "> light the fireplace",
+   "> relax"
+  ]
+ },
+ {
+  "style": "captions",
+  "out": "media/kamin2/stories/photo14/p05_27_0900_captions.jpg",
+  "photo": "media/kamin2/photos_ai/ai07_kitchen_cookies.jpg",
+  "cta": "Reply \"COZY\" for the link",
+  "lines": [
+   "baking day",
+   "cookies in the oven",
+   "fireplace on",
+   "perfect"
+  ],
+  "gap": 0.8,
+  "y": 330
+ },
+ {
+  "style": "sticker",
+  "out": "media/kamin2/stories/photo14/p05_27_1300_sticker.jpg",
+  "photo": "media/kamin2/photos_ai/ai09_studio_apartment.jpg",
+  "cta": "Reply \"LINK\" and I'll send it",
+  "title": "Small apartment? Still cozy.",
+  "badge": "-50%",
+  "old": "$139.95",
+  "new": "$69.95",
+  "small": "free US shipping"
+ },
+ {
+  "style": "serif",
+  "out": "media/kamin2/stories/photo14/p06_28_0900_serif.jpg",
+  "photo": "media/kamin2/photos_ai/ai13_window_cocoa.jpg",
+  "cta": "Reply \"COZY\" for the link",
+  "lines": [
+   "snow outside,",
+   "glow inside"
+  ],
+  "small": "cool mist · warm light",
+  "y": 1150
+ },
+ {
+  "style": "chat",
+  "out": "media/kamin2/stories/photo14/p06_28_1300_chat.jpg",
+  "photo": "media/kamin2/photos_ai/ai20_white_movie_lit.png",
+  "cta": "Reply \"COZY\" for the link",
+  "msgs": [
+   [
+    "l",
+    "wait is that a real fireplace on your TV stand?"
+   ],
+   [
+    "r",
+    "nope, it's a humidifier with LED flames"
+   ],
+   [
+    "l",
+    "that's genius. I need it"
+   ],
+   [
+    "r",
+    "reply COZY and I'll send the link"
+   ]
+  ],
+  "cta_start": 99
+ },
+ {
+  "style": "list",
+  "out": "media/kamin2/stories/photo14/p07_29_0900_list.jpg",
+  "photo": "media/kamin2/photos_ai/ai18_bedroom_blue.png",
+  "cta": "Reply \"COZY\" for the link",
+  "title": "why it's on my nightstand",
+  "items": [
+   "Cool mist for dry air",
+   "Soft glow to fall asleep",
+   "7 flame colors"
+  ]
+ },
+ {
+  "style": "polaroid",
+  "out": "media/kamin2/stories/photo14/p07_29_1300_polaroid.jpg",
+  "photo": "media/kamin2/photos_ai/ai25_white_xmas_unlit.png",
+  "cta": "Reply \"GLOW\" for the link",
+  "title": "the white edition"
+ },
+ {
+  "style": "cinema",
+  "out": "media/kamin2/stories/photo14/p08_30_0900_cinema.jpg",
+  "photo": "media/kamin2/photos_ai/ai01_white_bedroom_flames.jpg",
+  "cta": "Reply \"COZY\" for the link",
+  "lines": [
+   "goodnight, cozy"
+  ],
+  "times": [
+   [
+    0,
+    99
+   ]
+  ]
+ },
+ {
+  "style": "split",
+  "out": "media/kamin2/stories/photo14/p08_30_1300_split.jpg",
+  "photo": "media/kamin2/photos_ai/ai17_kitchen_unlit.png",
+  "cta": "Reply \"FIRE\" for the link",
+  "photo2": "media/kamin2/photos_ai/ai07_kitchen_cookies.jpg",
+  "top": "off",
+  "bottom": "on"
+ },
+ {
+  "style": "pov",
+  "out": "media/kamin2/stories/photo14/p09_01_0900_pov.jpg",
+  "photo": "media/kamin2/photos_ai/ai16_gaming_purple2.png",
+  "cta": "Reply \"COZY\" and get the link",
+  "text": "your gaming setup finally has a fireplace"
+ },
+ {
+  "style": "letters",
+  "out": "media/kamin2/stories/photo14/p10_02_0900_letters.jpg",
+  "photo": "media/kamin2/photos_ai/ai03_black_xmas_flames.jpg",
+  "cta": "Reply \"COZY\" for the link",
+  "phrases": [
+   {
+    "words": [
+     "merry",
+     "& cozy"
+    ],
+    "start": 0,
+    "end": 99
+   }
+  ]
+ },
+ {
+  "style": "quote",
+  "out": "media/kamin2/stories/photo14/p11_03_0900_quote.jpg",
+  "photo": "media/kamin2/photos_ai/ai02_black_xmas_mist.jpg",
+  "cta": "DM me \"COZY\" for the link",
+  "lines": [
+   "christmas looks",
+   "a little like this"
+  ],
+  "small": "fireplace glow + humidifier in one"
+ },
+ {
+  "style": "split",
+  "out": "media/kamin2/stories/photo14/p12_04_0900_split.jpg",
+  "photo": "media/kamin2/photos_ai/ai24_desk_snow_unlit.png",
+  "cta": "Reply \"COZY\" for the link",
+  "photo2": "media/kamin2/photos_ai/ai14_desk_laptop.jpg",
+  "top": "work mode",
+  "bottom": "cozy mode"
+ },
+ {
+  "style": "typewriter",
+  "out": "media/kamin2/stories/photo14/p12_04_1300_typewriter.jpg",
+  "photo": "media/kamin2/photos_ai/ai23_gift_box_unlit.png",
+  "cta": "Reply \"LINK\" and I'll send it",
+  "lines": [
+   "gift list:",
+   "[x] mom",
+   "[x] sister",
+   "[x] me, obviously"
+  ]
+ },
+ {
+  "style": "captions",
+  "out": "media/kamin2/stories/photo14/p13_05_0900_captions.jpg",
+  "photo": "media/kamin2/photos_ai/ai04_white_bedroom_mist.jpg",
+  "cta": "Reply \"COZY\" for the link",
+  "lines": [
+   "bedtime routine:",
+   "tea",
+   "a good book",
+   "fireplace on"
+  ],
+  "gap": 0.8,
+  "y": 330
+ },
+ {
+  "style": "serif",
+  "out": "media/kamin2/stories/photo14/p14_06_0900_serif.jpg",
+  "photo": "media/kamin2/photos_ai/ai06_bed_book_unlit.png",
+  "cta": "Reply \"GLOW\" for the link",
+  "lines": [
+   "slow evenings",
+   "are underrated"
+  ],
+  "small": "5+ hours of mist on one fill",
+  "y": 1150
+ },
+ {
+  "style": "sticker",
+  "out": "media/kamin2/stories/photo14/p14_06_1300_sticker.jpg",
+  "photo": "media/kamin2/photos_ai/ai08_gaming_purple.jpg",
+  "cta": "Reply \"FIRE\" for the link",
+  "title": "Gamer gift idea under $70",
+  "badge": "$69",
+  "badge2": "ONLY",
+  "old": "$139.95",
+  "new": "$69.95",
+  "small": "7 flame colors + remote"
+ }
+]

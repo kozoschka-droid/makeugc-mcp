@@ -71,6 +71,10 @@ def faq(s, c, d):
     yy=text_block(d,lines,fa,y+95,INK,x=m+45,lh=1.3,center=False)
     d.line([m+45,y+50+bh-95,W-m-45,y+50+bh-95],fill=(214,170,150),width=2)
     d.text((m+45,y+50+bh-70),s["tag"],font=sans(32,False),fill=MUTE)
+    if s.get("photo"):  # фото в порожньому місці між відповіддю і нижньою лінією
+        top=y+50+bh+40; h=1490-40-top
+        if h>200:
+            ph=rounded_photo(s["photo"],W-2*m,h,36); shadow(c,(m,top,W-m,top+h)); c.alpha_composite(ph,(m,top))
     d.line([m,1490,W-m,1490],fill=(214,180,160),width=3)
     d.text((m,1520),"COZY NIGHTS, ANYWHERE.",font=sans(28,False),fill=MUTE)
     for i in range(s.get("total",7)):
