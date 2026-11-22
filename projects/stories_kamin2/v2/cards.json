@@ -1,0 +1,41 @@
+[
+ {
+  "type": "poll",
+  "out": "media/kamin2/stories/v2/d22_0900_poll.jpg",
+  "photo": "media/kamin2/photos_ai/ai03_black_xmas_flames.jpg",
+  "q": "Would you fall asleep to this?",
+  "opts": [
+   "1 · Yes, obviously",
+   "2 · I need it first"
+  ],
+  "cta": "Reply 1 or 2"
+ },
+ {
+  "type": "faq",
+  "out": "media/kamin2/stories/v2/d23_0900_faq.jpg",
+  "n": 1,
+  "total": 5,
+  "cat": "Most asked",
+  "q": "Wait… is it real fire?",
+  "a": "Nope! It's cool water mist lit by LED light. No smoke, no heat, safe around kids and pets. Just the cozy look of a fireplace.",
+  "tag": "Cool mist · LED flame · 150 ml tank",
+  "cta": "Comment \"COZY\" for the link"
+ },
+ {
+  "type": "promo",
+  "out": "media/kamin2/stories/v2/d23_1300_promo.jpg",
+  "photo": "media/kamin2/photos_ai/ai02_black_xmas_mist.jpg",
+  "kicker": "cozy season sale",
+  "title": "50% OFF",
+  "sub": "$139.95  →  $69.95 · free US shipping",
+  "cta": "Comment \"COZY\" for the link"
+ },
+ {
+  "type": "shop",
+  "out": "media/kamin2/stories/v2/d24_1300_shop.jpg",
+  "photo": "media/kamin2/photos_ai/ai04_white_bedroom_mist.jpg",
+  "title": "Your bedroom, but cozier",
+  "sub": "Fireplace glow + humidifier in one. 5+ hours on one fill.",
+  "cta": "Comment \"COZY\" for the link"
+ }
+]
