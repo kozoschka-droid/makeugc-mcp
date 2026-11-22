@@ -8,6 +8,7 @@ W, H = 1080, 1920
 BG=(251,244,236); INK=(58,34,22); EMBER=(217,101,43); PEACH=(246,222,205); MUTE=(156,107,85); WHITE=(255,255,255)
 PF = ROOT+"/assets/fonts/PlayfairDisplay.ttf"; IN="/usr/share/fonts/opentype/inter/Inter-Bold.otf"
 INR="/usr/share/fonts/opentype/inter/Inter-Regular.otf" if os.path.exists("/usr/share/fonts/opentype/inter/Inter-Regular.otf") else IN
+BRAND="Cozy Fireplace"; TAGLINE="COZY NIGHTS, ANYWHERE."; POLL1=(250,214,190)
 EMO="/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf"
 def serif(size, w=700):
     f=ImageFont.truetype(PF,size)
@@ -45,7 +46,7 @@ def pill(d, cx, y, text, font, fill, color, padx=46, pady=24):
     tw=d.textlength(text,font=font); w=tw+padx*2; h=font.size+pady*2
     d.rounded_rectangle([cx-w/2,y,cx+w/2,y+h],h/2,fill=fill); d.text((cx-tw/2,y+pady-font.size*0.1),text,font=font,fill=color); return y+h
 def brand(d, y=300, small=False):
-    f=serif(46 if not small else 40); t="Cozy Fireplace"; d.text(((W-d.textlength(t,font=f))/2,y),t,font=f,fill=INK)
+    f=serif(46 if not small else 40); t=BRAND; d.text(((W-d.textlength(t,font=f))/2,y),t,font=f,fill=INK)
 
 def shop(s, c, d):
     brand(d, 290)
@@ -61,7 +62,7 @@ def shop(s, c, d):
     if s.get("hint"): f=sans(32,False); t=s["hint"]; d.text(((W-d.textlength(t,font=f))/2,1630),t,font=f,fill=MUTE)
 
 def faq(s, c, d):
-    m=90; f=serif(54,600); d.text((m,300),"Cozy Fireplace",font=f,fill=INK)
+    m=90; f=serif(54,600); d.text((m,300),BRAND,font=f,fill=INK)
     t=f"FAQ / {s['n']:02d}"; fs=sans(30,False); d.text((W-m-d.textlength(t,font=fs),318),t,font=fs,fill=MUTE)
     d.line([m,395,W-m,395],fill=(214,180,160),width=3)
     d.text((m,470),s["cat"].upper(),font=sans(32,False),fill=EMBER)
@@ -76,7 +77,7 @@ def faq(s, c, d):
         if h>200:
             ph=rounded_photo(s["photo"],W-2*m,h,36); shadow(c,(m,top,W-m,top+h)); c.alpha_composite(ph,(m,top))
     d.line([m,1490,W-m,1490],fill=(214,180,160),width=3)
-    d.text((m,1520),"COZY NIGHTS, ANYWHERE.",font=sans(28,False),fill=MUTE)
+    d.text((m,1520),TAGLINE,font=sans(28,False),fill=MUTE)
     for i in range(s.get("total",7)):
         x=W-m-(s.get("total",7)-i)*44; d.rounded_rectangle([x,1530,x+32,1538],4,fill=INK if i==s["n"]-1 else (214,170,150))
     if s.get("cta"): pill(d,W/2,1600,s["cta"],sans(38),EMBER,WHITE)
@@ -91,7 +92,7 @@ def promo(s, c, d):
     f1=serif(78); t=s.get("kicker","CHRISTMAS SALE"); d.text(((W-d.textlength(t,font=f1))/2,y+70),t,font=f1,fill=(255,196,140))
     f2=sans(84); t=s.get("title","50% OFF"); d.text(((W-d.textlength(t,font=f2))/2,y+170),t,font=f2,fill=WHITE)
     if s.get("sub"): f3=sans(38,False); t=s["sub"]; d.text(((W-d.textlength(t,font=f3))/2,y+285),t,font=f3,fill=WHITE)
-    d.text((x+40,y+1150-90),"Cozy Fireplace",font=serif(44),fill=WHITE)
+    d.text((x+40,y+1150-90),BRAND,font=serif(44),fill=WHITE)
     pill(d,W/2,y+1150+60,s.get("cta",'Reply "COZY" for the link'),sans(42),EMBER,WHITE)
 
 def poll(s, c, d):
@@ -102,7 +103,7 @@ def poll(s, c, d):
     d.rectangle([bx[0],bx[3],bx[2],bx[3]+300],fill=WHITE)
     yy=bx[3]+40
     for i,o in enumerate(s["opts"]):
-        d.rounded_rectangle([bx[0]+40,yy,bx[2]-40,yy+100],50,fill=PEACH if i else (250,214,190))
+        d.rounded_rectangle([bx[0]+40,yy,bx[2]-40,yy+100],50,fill=PEACH if i else POLL1)
         d.text((bx[0]+80,yy+28),o,font=sans(40),fill=INK); yy+=125
     d.text(((W-d.textlength(s.get("cta","Reply 1 or 2 👇"[:-2]),font=sans(36,False)))/2,1520),s.get("cta","Reply 1 or 2"),font=sans(36,False),fill=MUTE)
 

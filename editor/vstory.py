@@ -9,6 +9,7 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 W, H, FPS = 1080, 1920, 30
 IN = "/usr/share/fonts/opentype/inter/"; MONO = "/usr/share/fonts/truetype/jetbrains-mono/JetBrainsMono-Medium.ttf"
 PF = ROOT + "/assets/fonts/PlayfairDisplay.ttf"; PFI = ROOT + "/assets/fonts/PlayfairDisplay-Italic.ttf"
+BRAND = "Cozy Fireplace"; FRAME = (251, 244, 236)
 EMBER = (255, 138, 61); CREAM = (251, 244, 236); INK = (40, 24, 16); WARM = (255, 214, 170)
 
 def font(name, size, wght=None):
@@ -138,23 +139,23 @@ def st_pov(o, s, t):
     cta_pill(o, s, t)
 
 def st_polaroid(o, s, t):
-    m = Image.new("RGBA", (W, H), CREAM + (255,)); d = ImageDraw.Draw(m)
+    m = Image.new("RGBA", (W, H), FRAME + (255,)); d = ImageDraw.Draw(m)
     win = [90, 250, W - 90, 1450]; d.rounded_rectangle(win, 10, fill=(0, 0, 0, 0))
     sh = Image.new("RGBA", (W, H)); ImageDraw.Draw(sh).rounded_rectangle([win[0], win[1] + 14, win[2], win[3] + 14], 10, fill=(70, 40, 20, 90))
     o.alpha_composite(sh.filter(ImageFilter.GaussianBlur(16))); o.alpha_composite(m)
     # «вирізаємо» вікно знову поверх тіні
     hole = Image.new("L", (W, H), 255); ImageDraw.Draw(hole).rounded_rectangle(win, 10, fill=0)
     o.putalpha(Image.composite(o.getchannel("A"), Image.new("L", (W, H), 0), hole))
-    d = ImageDraw.Draw(o); ctext(d, 150, "Cozy Fireplace", font("serif", 44), INK + (255,))
+    d = ImageDraw.Draw(o); ctext(d, 150, BRAND, font("serif", 44), INK + (255,))
     a = fade(t, 0.5); f = font("serifi", 76); y = 1495
     for l in wrap(d, s["title"], f, 900): ctext(d, y + int(16 * (1 - a)), l, f, INK + (int(255 * a),)); y += 88
     if s.get("cta") and t >= s["cta_start"]:
-        a = ease((t - s["cta_start"]) / 0.5); ctext(d, H - 190, s["cta"], font("semi", 38), (176, 84, 36, int(255 * a)))
+        a = ease((t - s["cta_start"]) / 0.5); ctext(d, H - 190, s["cta"], font("semi", 38), EMBER + (int(255 * a),))
 
 def st_cinema(o, s, t):
     d = ImageDraw.Draw(o); bar = 300
     d.rectangle([0, 0, W, bar], fill=(0, 0, 0, 255)); d.rectangle([0, H - bar, W, H], fill=(0, 0, 0, 255))
-    ctext(d, bar - 80, " ".join("COZY FIREPLACE"), font("light", 28), (255, 255, 255, int(170 * fade(t, 0.2))))
+    ctext(d, bar - 80, " ".join(BRAND.upper()), font("light", 28), (255, 255, 255, int(170 * fade(t, 0.2))))
     for i, l in enumerate(s["lines"]):
         st, en = s["times"][i]
         a = fade(t, st, en, 0.7, 0.5)
