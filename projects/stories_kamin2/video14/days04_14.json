@@ -1,0 +1,1200 @@
+[
+ {
+  "out": "media/kamin2/stories/video14/d04_0900_typewriter.mp4",
+  "style": "typewriter",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 8.4,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v2.mp4",
+    "start": 9.6,
+    "dur": 2.4
+   },
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 1.3,
+    "dur": 3.0
+   }
+  ],
+  "music": "assets/music/t06_tiktok_7318_b.mp3",
+  "music_start": 2.25,
+  "cta": "Reply \"COZY\" and get the link",
+  "cta_start": 5.0,
+  "lines": [
+   "things that make",
+   "winter better:",
+   "> blanket",
+   "> cocoa",
+   "> this fireplace"
+  ],
+  "cps": 18
+ },
+ {
+  "out": "media/kamin2/stories/video14/d04_1300_polaroid.mp4",
+  "style": "polaroid",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 13.0,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v9.mp4",
+    "start": 14.0,
+    "dur": 2.5
+   },
+   {
+    "src": "assets/fireplace/raw/v7.mp4",
+    "start": 5.5,
+    "dur": 2.5
+   }
+  ],
+  "music": "assets/music/t08_tiktok_7318_d.mp3",
+  "music_start": 0,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 3.5,
+  "title": "our coziest corner this winter"
+ },
+ {
+  "out": "media/kamin2/stories/video14/d04_1900_bigword.mp4",
+  "style": "bigword",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v8.mp4",
+    "start": 21.0,
+    "dur": 1.6
+   },
+   {
+    "src": "assets/fireplace/raw/v8.mp4",
+    "start": 24.0,
+    "dur": 1.6
+   },
+   {
+    "src": "assets/fireplace/raw/v8.mp4",
+    "start": 27.0,
+    "dur": 1.6
+   },
+   {
+    "src": "assets/fireplace/raw/v6.mp4",
+    "start": 9.5,
+    "dur": 1.6
+   },
+   {
+    "src": "assets/fireplace/raw/v10.mp4",
+    "start": 17.0,
+    "dur": 1.6
+   }
+  ],
+  "music": "assets/music/t14_tiktok_654462780.mp3",
+  "music_start": 0,
+  "cta": "Reply \"FIRE\" for the link",
+  "cta_start": 5.0,
+  "words": [
+   [
+    "ORANGE",
+    0.1,
+    1.5
+   ],
+   [
+    "PINK",
+    1.6,
+    3.1
+   ],
+   [
+    "GREEN",
+    3.2,
+    4.7
+   ],
+   [
+    "BLUE",
+    4.8,
+    6.3
+   ],
+   [
+    "YOURS?",
+    6.4,
+    8.0
+   ]
+  ],
+  "size": 220
+ },
+ {
+  "out": "media/kamin2/stories/video14/d05_0900_quote.mp4",
+  "style": "quote",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 1.2,
+    "dur": 3.3
+   },
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 10.0,
+    "dur": 2.6
+   },
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 16.0,
+    "dur": 2.4
+   }
+  ],
+  "music": "assets/music/t10_anastasia_original.mp3",
+  "music_start": 0,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 4.6,
+  "lines": [
+   "home is where",
+   "the glow is"
+  ],
+  "small": "no smoke · no ash · no heat"
+ },
+ {
+  "out": "media/kamin2/stories/video14/d05_1300_letters.mp4",
+  "style": "letters",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v6.mp4",
+    "start": 7.0,
+    "dur": 2.4
+   },
+   {
+    "src": "assets/fireplace/raw/v8.mp4",
+    "start": 30.0,
+    "dur": 2.4
+   },
+   {
+    "src": "assets/fireplace/raw/v10.mp4",
+    "start": 20.0,
+    "dur": 3.0
+   }
+  ],
+  "music": "assets/music/t13_tiktok_1293762064.mp3",
+  "music_start": 0,
+  "cta": "DM me \"COZY\" for the link",
+  "cta_start": 5.0,
+  "phrases": [
+   {
+    "words": [
+     "pick",
+     "a mood"
+    ],
+    "start": 0.3,
+    "end": 3.4
+   },
+   {
+    "words": [
+     "any",
+     "color"
+    ],
+    "start": 4.0,
+    "end": 7.8,
+    "size": 180
+   }
+  ]
+ },
+ {
+  "out": "media/kamin2/stories/video14/d05_1900_pov.mp4",
+  "style": "pov",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v7.mp4",
+    "start": 5.2,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 1.6,
+    "dur": 2.8
+   },
+   {
+    "src": "assets/fireplace/raw/v9.mp4",
+    "start": 13.2,
+    "dur": 2.6
+   }
+  ],
+  "music": "assets/music/t05_tiktok_7318_a.mp3",
+  "music_start": 0,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 4.4,
+  "text": "it's 9pm, lights off, and your room finally feels like a cabin"
+ },
+ {
+  "out": "media/kamin2/stories/video14/d06_0900_sticker.mp4",
+  "style": "sticker",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 14.5,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 11.0,
+    "dur": 2.4
+   },
+   {
+    "src": "assets/fireplace/raw/v2.mp4",
+    "start": 10.0,
+    "dur": 2.0
+   }
+  ],
+  "music": "assets/music/t11_arabic_original.mp3",
+  "music_start": 0,
+  "cta": "Reply \"LINK\" and I'll send it",
+  "cta_start": 4.0,
+  "title": "Half price. Full cozy.",
+  "badge": "-50%",
+  "old": "$139.95",
+  "new": "$69.95",
+  "small": "free US shipping"
+ },
+ {
+  "out": "media/kamin2/stories/video14/d06_1300_chat.mp4",
+  "style": "chat",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v2.mp4",
+    "start": 9.6,
+    "dur": 2.4
+   },
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 12.4,
+    "dur": 3.4
+   },
+   {
+    "src": "assets/fireplace/raw/v9.mp4",
+    "start": 14.5,
+    "dur": 2.4
+   }
+  ],
+  "music": "assets/music/t07_tiktok_7318_c.mp3",
+  "music_start": 26,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 99,
+  "msgs": [
+   [
+    "l",
+    "what should I get my mom for christmas"
+   ],
+   [
+    "r",
+    "this fireplace humidifier"
+   ],
+   [
+    "l",
+    "omg she'd love that"
+   ],
+   [
+    "r",
+    "reply COZY, I'll send you the link"
+   ]
+  ]
+ },
+ {
+  "out": "media/kamin2/stories/video14/d06_1900_cinema.mp4",
+  "style": "cinema",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v9.mp4",
+    "start": 13.0,
+    "dur": 3.2
+   },
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 8.6,
+    "dur": 2.8
+   },
+   {
+    "src": "assets/fireplace/raw/v7.mp4",
+    "start": 6.0,
+    "dur": 2.4
+   }
+  ],
+  "music": "assets/music/t09_tiktok_7318_e.mp3",
+  "music_start": 9,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 5.8,
+  "lines": [
+   "sunday night",
+   "soft music",
+   "softer light"
+  ],
+  "times": [
+   [
+    0.3,
+    2.8
+   ],
+   [
+    3.2,
+    5.0
+   ],
+   [
+    5.4,
+    8.4
+   ]
+  ]
+ },
+ {
+  "out": "media/kamin2/stories/video14/d07_0900_list.mp4",
+  "style": "list",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v10.mp4",
+    "start": 12.0,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 15.5,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 1.4,
+    "dur": 3.0
+   }
+  ],
+  "music": "assets/music/t03_rachel_rosie_home.mp3",
+  "music_start": 0,
+  "cta": "Reply \"GLOW\" for the link",
+  "cta_start": 4.0,
+  "title": "how to make any room cozy",
+  "items": [
+   "Lights off",
+   "Flames on",
+   "Blanket + tea"
+  ]
+ },
+ {
+  "out": "media/kamin2/stories/video14/d07_1300_serif.mp4",
+  "style": "serif",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v2.mp4",
+    "start": 9.5,
+    "dur": 2.5
+   },
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 13.2,
+    "dur": 2.8
+   },
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 9.8,
+    "dur": 2.6
+   }
+  ],
+  "music": "assets/music/t08_tiktok_7318_d.mp3",
+  "music_start": 0,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 4.6,
+  "lines": [
+   "a little fireplace",
+   "for a big winter"
+  ],
+  "small": "fits any shelf or nightstand"
+ },
+ {
+  "out": "media/kamin2/stories/video14/d07_1900_reveal.mp4",
+  "style": "reveal",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 4.6,
+    "dur": 3.4
+   },
+   {
+    "src": "assets/fireplace/raw/v6.mp4",
+    "start": 8.0,
+    "dur": 2.6
+   },
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 2.0,
+    "dur": 2.4
+   }
+  ],
+  "music": "assets/music/t04_tiktok_992951993.mp3",
+  "music_start": 3.9,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 4.6,
+  "before": "one click",
+  "after": "and it's cozy",
+  "on_at": 1.1
+ },
+ {
+  "out": "media/kamin2/stories/video14/d08_0900_captions.mp4",
+  "style": "captions",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 4.0,
+    "dur": 1.8
+   },
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 13.0,
+    "dur": 2.6
+   },
+   {
+    "src": "assets/fireplace/raw/v9.mp4",
+    "start": 13.5,
+    "dur": 3.0
+   }
+  ],
+  "music": "assets/music/t13_tiktok_1293762064.mp3",
+  "music_start": 0,
+  "cta": "Reply \"COZY\" and get the link",
+  "cta_start": 4.0,
+  "lines": [
+   "add water",
+   "press the button",
+   "that's it",
+   "5+ hours of cozy"
+  ],
+  "gap": 0.75
+ },
+ {
+  "out": "media/kamin2/stories/video14/d08_1300_split.mp4",
+  "style": "split",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v6.mp4",
+    "start": 6.5,
+    "dur": 4.0
+   },
+   {
+    "src": "assets/fireplace/raw/v8.mp4",
+    "start": 22.0,
+    "dur": 4.0
+   }
+  ],
+  "music": "assets/music/t11_arabic_original.mp3",
+  "music_start": 0,
+  "cta": "Reply \"FIRE\" for the link",
+  "cta_start": 3.5,
+  "clips2": [
+   {
+    "src": "assets/fireplace/raw/v10.mp4",
+    "start": 12.0,
+    "dur": 4.0
+   },
+   {
+    "src": "assets/fireplace/raw/v8.mp4",
+    "start": 29.0,
+    "dur": 4.0
+   }
+  ],
+  "top": "warm orange",
+  "bottom": "or any color"
+ },
+ {
+  "out": "media/kamin2/stories/video14/d08_1900_typewriter.mp4",
+  "style": "typewriter",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 1.2,
+    "dur": 3.2
+   },
+   {
+    "src": "assets/fireplace/raw/v7.mp4",
+    "start": 5.0,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 11.5,
+    "dur": 1.8
+   }
+  ],
+  "music": "assets/music/t10_anastasia_original.mp3",
+  "music_start": 0,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 5.4,
+  "lines": [
+   "dear diary,",
+   "I bought a fireplace",
+   "for my bedroom.",
+   "best decision."
+  ],
+  "cps": 17
+ },
+ {
+  "out": "media/kamin2/stories/video14/d09_0900_polaroid.mp4",
+  "style": "polaroid",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v2.mp4",
+    "start": 9.5,
+    "dur": 2.5
+   },
+   {
+    "src": "assets/fireplace/raw/v2.mp4",
+    "start": 10.5,
+    "dur": 1.5
+   },
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 16.5,
+    "dur": 2.0
+   },
+   {
+    "src": "assets/fireplace/raw/v9.mp4",
+    "start": 14.9,
+    "dur": 1.6
+   }
+  ],
+  "music": "assets/music/t05_tiktok_7318_a.mp3",
+  "music_start": 0,
+  "cta": "Reply \"GLOW\" for the link",
+  "cta_start": 3.5,
+  "title": "christmas tree + fireplace = done"
+ },
+ {
+  "out": "media/kamin2/stories/video14/d09_1300_bigword.mp4",
+  "style": "bigword",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 12.4,
+    "dur": 1.6
+   },
+   {
+    "src": "assets/fireplace/raw/v9.mp4",
+    "start": 13.0,
+    "dur": 1.6
+   },
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 1.5,
+    "dur": 1.6
+   },
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 9.0,
+    "dur": 1.6
+   },
+   {
+    "src": "assets/fireplace/raw/v7.mp4",
+    "start": 6.0,
+    "dur": 1.6
+   }
+  ],
+  "music": "assets/music/t07_tiktok_7318_c.mp3",
+  "music_start": 26,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 5.0,
+  "words": [
+   [
+    "NO",
+    0.1,
+    1.2
+   ],
+   [
+    "SMOKE",
+    1.3,
+    2.6
+   ],
+   [
+    "NO",
+    2.7,
+    3.6
+   ],
+   [
+    "ASH",
+    3.7,
+    5.0
+   ],
+   [
+    "JUST",
+    5.1,
+    6.2
+   ],
+   [
+    "COZY",
+    6.3,
+    8.0
+   ]
+  ],
+  "size": 250
+ },
+ {
+  "out": "media/kamin2/stories/video14/d09_1900_quote.mp4",
+  "style": "quote",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v7.mp4",
+    "start": 5.0,
+    "dur": 3.4
+   },
+   {
+    "src": "assets/fireplace/raw/v9.mp4",
+    "start": 13.6,
+    "dur": 2.6
+   },
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 17.0,
+    "dur": 1.6
+   }
+  ],
+  "music": "assets/music/t06_tiktok_7318_b.mp3",
+  "music_start": 2.25,
+  "cta": "DM me \"COZY\" for the link",
+  "cta_start": 4.6,
+  "lines": [
+   "slow nights",
+   "are the best nights"
+  ],
+  "small": "7 flame colors · remote included"
+ },
+ {
+  "out": "media/kamin2/stories/video14/d10_0900_letters.mp4",
+  "style": "letters",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 13.5,
+    "dur": 2.8
+   },
+   {
+    "src": "assets/fireplace/raw/v2.mp4",
+    "start": 10.2,
+    "dur": 1.8
+   },
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 8.3,
+    "dur": 3.2
+   }
+  ],
+  "music": "assets/music/t03_rachel_rosie_home.mp3",
+  "music_start": 0,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 5.0,
+  "phrases": [
+   {
+    "words": [
+     "good",
+     "morning"
+    ],
+    "start": 0.3,
+    "end": 3.4
+   },
+   {
+    "words": [
+     "cozy",
+     "edition"
+    ],
+    "start": 4.0,
+    "end": 7.8,
+    "size": 180
+   }
+  ]
+ },
+ {
+  "out": "media/kamin2/stories/video14/d10_1300_pov.mp4",
+  "style": "pov",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v8.mp4",
+    "start": 19.6,
+    "dur": 2.6
+   },
+   {
+    "src": "assets/fireplace/raw/v8.mp4",
+    "start": 25.5,
+    "dur": 2.4
+   },
+   {
+    "src": "assets/fireplace/raw/v6.mp4",
+    "start": 12.0,
+    "dur": 2.8
+   }
+  ],
+  "music": "assets/music/t14_tiktok_654462780.mp3",
+  "music_start": 0,
+  "cta": "Reply \"FIRE\" for the link",
+  "cta_start": 4.4,
+  "text": "you change the flame color every night depending on your mood"
+ },
+ {
+  "out": "media/kamin2/stories/video14/d10_1900_sticker.mp4",
+  "style": "sticker",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 1.2,
+    "dur": 3.3
+   },
+   {
+    "src": "assets/fireplace/raw/v7.mp4",
+    "start": 6.4,
+    "dur": 2.0
+   },
+   {
+    "src": "assets/fireplace/raw/v9.mp4",
+    "start": 12.6,
+    "dur": 2.9
+   }
+  ],
+  "music": "assets/music/t09_tiktok_7318_e.mp3",
+  "music_start": 9,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 4.0,
+  "title": "Gift idea under $70",
+  "badge": "$69",
+  "badge2": "ONLY",
+  "old": "$139.95",
+  "new": "$69.95",
+  "small": "30-day money back guarantee"
+ },
+ {
+  "out": "media/kamin2/stories/video14/d11_0900_chat.mp4",
+  "style": "chat",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 9.0,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 1.3,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 14.0,
+    "dur": 3.0
+   }
+  ],
+  "music": "assets/music/t05_tiktok_7318_a.mp3",
+  "music_start": 0,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 99,
+  "msgs": [
+   [
+    "l",
+    "is it safe to leave on all night?"
+   ],
+   [
+    "r",
+    "yes! no real fire, no heat. it's just mist + light"
+   ],
+   [
+    "l",
+    "ok I need one for my bedroom"
+   ],
+   [
+    "r",
+    "reply COZY for the link"
+   ]
+  ]
+ },
+ {
+  "out": "media/kamin2/stories/video14/d11_1300_cinema.mp4",
+  "style": "cinema",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v10.mp4",
+    "start": 13.0,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v6.mp4",
+    "start": 7.5,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v8.mp4",
+    "start": 27.5,
+    "dur": 2.6
+   }
+  ],
+  "music": "assets/music/t13_tiktok_1293762064.mp3",
+  "music_start": 0,
+  "cta": "Reply \"COZY\" and get the link",
+  "cta_start": 5.8,
+  "lines": [
+   "seven colors",
+   "one remote",
+   "endless moods"
+  ],
+  "times": [
+   [
+    0.3,
+    2.8
+   ],
+   [
+    3.2,
+    5.0
+   ],
+   [
+    5.4,
+    8.6
+   ]
+  ]
+ },
+ {
+  "out": "media/kamin2/stories/video14/d11_1900_list.mp4",
+  "style": "list",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 1.2,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 10.4,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v7.mp4",
+    "start": 5.4,
+    "dur": 2.8
+   }
+  ],
+  "music": "assets/music/t08_tiktok_7318_d.mp3",
+  "music_start": 0,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 4.0,
+  "title": "perfect for",
+  "items": [
+   "Movie nights",
+   "Reading in bed",
+   "Falling asleep"
+  ]
+ },
+ {
+  "out": "media/kamin2/stories/video14/d12_0900_serif.mp4",
+  "style": "serif",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v9.mp4",
+    "start": 12.8,
+    "dur": 3.4
+   },
+   {
+    "src": "assets/fireplace/raw/v2.mp4",
+    "start": 9.7,
+    "dur": 2.2
+   },
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 17.0,
+    "dur": 1.6
+   }
+  ],
+  "music": "assets/music/t10_anastasia_original.mp3",
+  "music_start": 0,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 4.6,
+  "lines": [
+   "cozy isn't a season,",
+   "it's a feeling"
+  ],
+  "small": "fireplace glow + humidifier in one"
+ },
+ {
+  "out": "media/kamin2/stories/video14/d12_1300_reveal.mp4",
+  "style": "reveal",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 9.6,
+    "dur": 3.9
+   },
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 15.0,
+    "dur": 2.0
+   },
+   {
+    "src": "assets/fireplace/raw/v9.mp4",
+    "start": 14.0,
+    "dur": 2.4
+   }
+  ],
+  "music": "assets/music/t09_tiktok_7318_e.mp3",
+  "music_start": 8.15,
+  "cta": "Reply \"LINK\" and I'll send it",
+  "cta_start": 5.0,
+  "before": "lights off…",
+  "after": "flames on",
+  "on_at": 1.85
+ },
+ {
+  "out": "media/kamin2/stories/video14/d12_1900_captions.mp4",
+  "style": "captions",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v7.mp4",
+    "start": 5.0,
+    "dur": 3.2
+   },
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 1.3,
+    "dur": 2.8
+   },
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 11.0,
+    "dur": 2.2
+   }
+  ],
+  "music": "assets/music/t06_tiktok_7318_b.mp3",
+  "music_start": 2.25,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 4.4,
+  "lines": [
+   "quiet",
+   "warm light",
+   "cool mist",
+   "zero noise"
+  ],
+  "gap": 0.8
+ },
+ {
+  "out": "media/kamin2/stories/video14/d13_0900_split.mp4",
+  "style": "split",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 12.3,
+    "dur": 4.0
+   },
+   {
+    "src": "assets/fireplace/raw/v9.mp4",
+    "start": 13.0,
+    "dur": 4.0
+   }
+  ],
+  "music": "assets/music/t03_rachel_rosie_home.mp3",
+  "music_start": 0,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 3.5,
+  "clips2": [
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 8.4,
+    "dur": 4.0
+   },
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 1.2,
+    "dur": 3.3
+   },
+   {
+    "src": "assets/fireplace/raw/v7.mp4",
+    "start": 5.0,
+    "dur": 0.7
+   }
+  ],
+  "top": "white",
+  "bottom": "or black"
+ },
+ {
+  "out": "media/kamin2/stories/video14/d13_1300_typewriter.mp4",
+  "style": "typewriter",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v6.mp4",
+    "start": 8.0,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v10.mp4",
+    "start": 18.0,
+    "dur": 2.6
+   },
+   {
+    "src": "assets/fireplace/raw/v8.mp4",
+    "start": 31.0,
+    "dur": 2.6
+   }
+  ],
+  "music": "assets/music/t11_arabic_original.mp3",
+  "music_start": 0,
+  "cta": "Reply \"FIRE\" for the link",
+  "cta_start": 5.0,
+  "lines": [
+   "FAQ: real fire?",
+   "> no, LED + mist",
+   "FAQ: oils included?",
+   "> no, water only"
+  ],
+  "cps": 20
+ },
+ {
+  "out": "media/kamin2/stories/video14/d13_1900_polaroid.mp4",
+  "style": "polaroid",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 1.2,
+    "dur": 3.2
+   },
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 9.4,
+    "dur": 2.8
+   },
+   {
+    "src": "assets/fireplace/raw/v9.mp4",
+    "start": 14.9,
+    "dur": 1.6
+   }
+  ],
+  "music": "assets/music/t08_tiktok_7318_d.mp3",
+  "music_start": 0,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 3.5,
+  "title": "tonight's view"
+ },
+ {
+  "out": "media/kamin2/stories/video14/d14_0900_bigword.mp4",
+  "style": "bigword",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v2.mp4",
+    "start": 9.5,
+    "dur": 1.6
+   },
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 13.0,
+    "dur": 1.6
+   },
+   {
+    "src": "assets/fireplace/raw/v9.mp4",
+    "start": 14.0,
+    "dur": 1.6
+   },
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 10.0,
+    "dur": 1.6
+   },
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 2.0,
+    "dur": 1.6
+   }
+  ],
+  "music": "assets/music/t14_tiktok_654462780.mp3",
+  "music_start": 0,
+  "cta": "Reply \"GLOW\" for the link",
+  "cta_start": 5.0,
+  "words": [
+   [
+    "FIREPLACE",
+    0.1,
+    1.6
+   ],
+   [
+    "+",
+    1.7,
+    2.6
+   ],
+   [
+    "HUMIDIFIER",
+    2.7,
+    4.4
+   ],
+   [
+    "=",
+    4.5,
+    5.3
+   ],
+   [
+    "COZY",
+    5.4,
+    8.0
+   ]
+  ],
+  "size": 200
+ },
+ {
+  "out": "media/kamin2/stories/video14/d14_1300_quote.mp4",
+  "style": "quote",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v4.mp4",
+    "start": 12.6,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v2.mp4",
+    "start": 10.0,
+    "dur": 2.0
+   },
+   {
+    "src": "assets/fireplace/raw/v8.mp4",
+    "start": 23.0,
+    "dur": 3.0
+   }
+  ],
+  "music": "assets/music/t05_tiktok_7318_a.mp3",
+  "music_start": 0,
+  "cta": "Reply \"COZY\" for the link",
+  "cta_start": 4.6,
+  "lines": [
+   "the gift",
+   "they'll use every night"
+  ],
+  "small": "$69.95 · free US shipping"
+ },
+ {
+  "out": "media/kamin2/stories/video14/d14_1900_letters.mp4",
+  "style": "letters",
+  "clips": [
+   {
+    "src": "assets/fireplace/raw/v7.mp4",
+    "start": 5.0,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v1.mov",
+    "start": 1.2,
+    "dur": 3.0
+   },
+   {
+    "src": "assets/fireplace/raw/v12.mp4",
+    "start": 9.5,
+    "dur": 2.6
+   }
+  ],
+  "music": "assets/music/t04_tiktok_992951993.mp3",
+  "music_start": 0.5,
+  "cta": "Reply \"COZY\" and get the link",
+  "cta_start": 5.0,
+  "phrases": [
+   {
+    "words": [
+     "sweet",
+     "dreams"
+    ],
+    "start": 0.3,
+    "end": 3.4
+   },
+   {
+    "words": [
+     "cozy",
+     "edition"
+    ],
+    "start": 4.0,
+    "end": 8.2,
+    "size": 180
+   }
+  ]
+ }
+]
