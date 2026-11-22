@@ -284,7 +284,7 @@ def build(s):
     cmd = ["ffmpeg", "-v", "error", "-y", *inp, "-framerate", str(FPS), "-i", f"{tmp}/o%04d.png"]; maps = ["-map", "[v]"]
     if s.get("music"):
         cmd += ["-ss", str(s.get("music_start", 0)), "-i", ROOT + "/" + s["music"]]
-        fc += f";[{k+1}:a]atrim=duration={total},afade=t=in:d=0.3,afade=t=out:st={total-0.8}:d=0.8[a]"; maps += ["-map", "[a]"]
+        fc += f";[{k+1}:a]atrim=duration={total},afade=t=in:d=0.3,afade=t=out:st={total-0.8}:d=0.8,loudnorm=I=-13:TP=-1:LRA=11[a]"; maps += ["-map", "[a]"]
     out = s["out"] if s["out"].startswith("/") else ROOT + "/" + s["out"]; os.makedirs(os.path.dirname(out), exist_ok=True)
     cmd += ["-filter_complex", fc, *maps, "-c:v", "libx264", "-crf", "20", "-preset", "medium", "-c:a", "aac", "-t", str(total), "-movflags", "+faststart", out]
     subprocess.run(cmd, check=True); subprocess.run(["rm", "-rf", tmp]); print("OK", out)
