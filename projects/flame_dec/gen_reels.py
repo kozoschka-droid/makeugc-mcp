@@ -33,25 +33,35 @@ HOOKS = [
  "The flame that never burns 🔥","Winter evenings sorted ❄️","It's giving cabin in the woods 🪵","Last-minute gift that wows 🎁",
  "Cozy corner, finished ✅","Instant Christmas atmosphere 🎄","Lights off. Fireplace on. 🌙","The gift that keeps glowing ✨",
  "Holiday vibes without the mess 🧹","Most cozy thing I own 🤍","Merry & cozy 🔥","Christmas Eve mood 🎄","Cozy Christmas Eve vibes ✨"]
+HOOKS2 = [
+ "Holiday week, slow evenings 🔥","Cozy days between the holidays 🛋️","Christmas leftovers + flame on 🍪","Post-holiday reset mode 😌",
+ "Movie marathon week needs this 🎬","Hot cocoa season isn't over ☕","The coziest week of the year ✨","Pajamas all day, flame all night 🌙",
+ "New Year's Eve at home? Same 🥂","Countdown to 2027, cozy edition ⏳","Ending the year by the fire 🔥","Last sunset of 2026, then this 🌅",
+ "NYE plans: blanket, snacks, flame ✨","Goodbye 2026, hello cozy 2027 🎉","Ring in the new year warm 🔥","Midnight glow 🥂",
+ "Happy New Year from my cozy corner 🎆","New year, same cozy vibes 🔥","Starting 2027 slow and warm ✨","First night of the year, flame on 🌙",
+ "Winter is just getting started ❄️","Treat yourself this new year 🤍","Cozy goals for 2027 ✅","Lights off, new year on 🎉"]
 BODY = ["Realistic 3D flame with soft mist and aroma.","Just add water and turn it on with the remote.","No heat, no smoke — safe for any room.",
         "7 flame colors to match your mood.","A cozy fireplace look for any table.","Perfect gift for cozy lovers this Christmas."]
+BODY2 = ["Realistic 3D flame with soft mist and aroma.","Just add water and turn it on with the remote.","No heat, no smoke — safe for any room.",
+        "7 flame colors to match your mood.","A cozy fireplace look for any table.","Cozy evenings all winter long."]
 CTA_TEXT = "Link in bio 🔥"
 TAGS = ["#flamediffuser #fireplace #cozyhome #christmasgift #fyp","#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
         "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp","#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp"]
 
 def build_plan():
-    days = [date(2026,12,2)+timedelta(d) for d in range(23)]
+    days = [date(2026,12,2)+timedelta(d) for d in range(31)]
     rng = random.Random(41); plan = []; n = 0
     for d in days:
         for hh in [10,14,19]:
-            hook = HOOKS[n]; n += 1
+            hook = (HOOKS + HOOKS2)[n]; n += 1
             k = rng.choice([2,3,3])
             first = rng.choice(OPEN) if ("Unbox" in hook or "box" in hook) else None
             pool = [s for s in SC if s not in END and (first is None or s not in OPEN)]
             scenes = ([first] if first else []) + rng.sample(pool, k - (1 if first else 0))
             end = rng.choice(END)
             tr, ms = TRACKS[n % len(TRACKS)]
-            plan.append({"n": n, "date": d.isoformat(), "hour": hh, "hook": hook, "body": BODY[n % len(BODY)], "tags": TAGS[n % 4],
+            if d > date(2026,12,24) and "christmas" in tr: tr, ms = TRACKS[0]
+            plan.append({"n": n, "date": d.isoformat(), "hour": hh, "hook": hook, "body": (BODY if d <= date(2026,12,24) else BODY2)[n % len(BODY)], "tags": TAGS[n % 4],
                          "scenes": scenes, "end": end, "track": tr, "ms": ms, "mirror": n % 3 == 0})
     return plan
 
@@ -69,7 +79,7 @@ def render(p):
     return out
 
 if __name__ == "__main__":
-    plan = build_plan(); assert len(plan) == 69 and len(set(p["hook"] for p in plan)) == 69
+    plan = build_plan(); assert len(plan) == 93 and len(set(p["hook"] for p in plan)) == 93
     json.dump(plan, open(os.path.dirname(os.path.abspath(__file__)) + "/reels_plan.json", "w"), indent=1, ensure_ascii=False)
     only = [int(x) for x in sys.argv[1:]]
     for p in plan:

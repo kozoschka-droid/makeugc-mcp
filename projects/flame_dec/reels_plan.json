@@ -2185,5 +2185,747 @@
   "track": "t09_tiktok_7318_e.mp3",
   "ms": 9,
   "mirror": true
+ },
+ {
+  "n": 70,
+  "date": "2026-12-25",
+  "hour": 10,
+  "hook": "Holiday week, slow evenings 🔥",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 71,
+  "date": "2026-12-25",
+  "hour": 14,
+  "hook": "Cozy days between the holidays 🛋️",
+  "body": "Cozy evenings all winter long.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f4",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 72,
+  "date": "2026-12-25",
+  "hour": 19,
+  "hook": "Christmas leftovers + flame on 🍪",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f4",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 73,
+  "date": "2026-12-26",
+  "hour": 10,
+  "hook": "Post-holiday reset mode 😌",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 74,
+  "date": "2026-12-26",
+  "hour": 14,
+  "hook": "Movie marathon week needs this 🎬",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25,
+  "mirror": false
+ },
+ {
+  "n": 75,
+  "date": "2026-12-26",
+  "hour": 19,
+  "hook": "Hot cocoa season isn't over ☕",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26,
+  "mirror": true
+ },
+ {
+  "n": 76,
+  "date": "2026-12-27",
+  "hour": 10,
+  "hook": "The coziest week of the year ✨",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 77,
+  "date": "2026-12-27",
+  "hour": 14,
+  "hook": "Pajamas all day, flame all night 🌙",
+  "body": "Cozy evenings all winter long.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f6",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 78,
+  "date": "2026-12-27",
+  "hour": 19,
+  "hook": "New Year's Eve at home? Same 🥂",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f1",
+    1,
+    4
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 79,
+  "date": "2026-12-28",
+  "hour": 10,
+  "hook": "Countdown to 2027, cozy edition ⏳",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f4",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 80,
+  "date": "2026-12-28",
+  "hour": 14,
+  "hook": "Ending the year by the fire 🔥",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5,
+  "mirror": false
+ },
+ {
+  "n": 81,
+  "date": "2026-12-28",
+  "hour": 19,
+  "hook": "Last sunset of 2026, then this 🌅",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f2",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9,
+  "mirror": true
+ },
+ {
+  "n": 82,
+  "date": "2026-12-29",
+  "hour": 10,
+  "hook": "NYE plans: blanket, snacks, flame ✨",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 83,
+  "date": "2026-12-29",
+  "hour": 14,
+  "hook": "Goodbye 2026, hello cozy 2027 🎉",
+  "body": "Cozy evenings all winter long.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f4",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 84,
+  "date": "2026-12-29",
+  "hour": 19,
+  "hook": "Ring in the new year warm 🔥",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 85,
+  "date": "2026-12-30",
+  "hour": 10,
+  "hook": "Midnight glow 🥂",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 86,
+  "date": "2026-12-30",
+  "hour": 14,
+  "hook": "Happy New Year from my cozy corner 🎆",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25,
+  "mirror": false
+ },
+ {
+  "n": 87,
+  "date": "2026-12-30",
+  "hour": 19,
+  "hook": "New year, same cozy vibes 🔥",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f7",
+    0,
+    2.5
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26,
+  "mirror": true
+ },
+ {
+  "n": 88,
+  "date": "2026-12-31",
+  "hour": 10,
+  "hook": "Starting 2027 slow and warm ✨",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 89,
+  "date": "2026-12-31",
+  "hour": 14,
+  "hook": "First night of the year, flame on 🌙",
+  "body": "Cozy evenings all winter long.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 90,
+  "date": "2026-12-31",
+  "hour": 19,
+  "hook": "Winter is just getting started ❄️",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 91,
+  "date": "2027-01-01",
+  "hour": 10,
+  "hook": "Treat yourself this new year 🤍",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 92,
+  "date": "2027-01-01",
+  "hour": 14,
+  "hook": "Cozy goals for 2027 ✅",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5,
+  "mirror": false
+ },
+ {
+  "n": 93,
+  "date": "2027-01-01",
+  "hour": 19,
+  "hook": "Lights off, new year on 🎉",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f6",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9,
+  "mirror": true
  }
 ]
