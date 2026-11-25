@@ -6,7 +6,7 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
 P = ROOT + "/media/flame/photos/"; O = ROOT + "/media/flame/highlights/covers/"; os.makedirs(O, exist_ok=True)
 PF = ROOT + "/assets/fonts/PlayfairDisplay.ttf"; PFI = ROOT + "/assets/fonts/PlayfairDisplay-Italic.ttf"
 W, H, R = 1080, 1920, 380
-SEC = [("shop", "Shop", "p14"), ("howto", "How to", "p18"), ("colors", "Colors", "p20"), ("gift", "Gift", "p02"), ("faq", "FAQ", "p15"), ("cozy", "Cozy", "p13")]
+SEC = [("order", "Order", "p14"), ("howto", "How it works", "p18"), ("faq", "FAQ", "p15")]
 def crop_center(im, cx, cy, size):
     return im.crop((cx - size // 2, cy - size // 2, cx + size // 2, cy + size // 2))
 def canvas(bg): return Image.new("RGB", (W, H), bg)
@@ -20,7 +20,7 @@ for key, label, ph in SEC:
 # B — розмите полум'я + тонка іконка
 LW = 14; WH = (255, 255, 255)
 def ic(d, key, x, y):
-    if key == "shop":
+    if key == "order":
         d.rounded_rectangle([x - 110, y - 50, x + 110, y + 150], 26, outline=WH, width=LW); d.arc([x - 60, y - 150, x + 60, y - 20], 180, 360, fill=WH, width=LW)
     elif key == "howto":
         d.arc([x - 100, y - 30, x + 100, y + 170], -20, 200, fill=WH, width=LW); d.line([(x - 94, y + 36), (x, y - 160), (x + 94, y + 36)], fill=WH, width=LW, joint="curve")
@@ -44,11 +44,11 @@ for key, label, ph in SEC:
 for key, label, ph in SEC:
     c = canvas((236, 226, 214)); d = ImageDraw.Draw(c)
     d.ellipse([W // 2 - R, H // 2 - R, W // 2 + R, H // 2 + R], fill=(250, 246, 241))
-    f = ImageFont.truetype(PFI, 170 if len(label) < 6 else 140); tw = d.textlength(label, font=f)
+    f = ImageFont.truetype(PFI, 170 if len(label) < 6 else 105); tw = d.textlength(label, font=f)
     d.text((W // 2 - tw / 2, H // 2 - 120), label, font=f, fill=(120, 70, 40))
     c.save(O + f"C_{key}.jpg", quality=95)
 # прев'ю кружечками
-prev = Image.new("RGB", (6 * 170 + 120, 3 * 190), (255, 255, 255)); dd = ImageDraw.Draw(prev)
+prev = Image.new("RGB", (3 * 170 + 120, 3 * 190), (255, 255, 255)); dd = ImageDraw.Draw(prev)
 for r, v in enumerate("ABC"):
     dd.text((10, r * 190 + 70), v, fill=(0, 0, 0), font=ImageFont.truetype(PF, 60))
     for i, (key, label, ph) in enumerate(SEC):
