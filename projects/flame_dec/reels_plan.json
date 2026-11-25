@@ -1,0 +1,2189 @@
+[
+ {
+  "n": 1,
+  "date": "2026-12-02",
+  "hour": 10,
+  "hook": "A fireplace that fits on your table 🔥",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 2,
+  "date": "2026-12-02",
+  "hour": 14,
+  "hook": "No chimney? No problem 🏠",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f4",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25,
+  "mirror": false
+ },
+ {
+  "n": 3,
+  "date": "2026-12-02",
+  "hour": 19,
+  "hook": "The coziest gift of the season 🎁",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f7",
+    0,
+    2.5
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26,
+  "mirror": true
+ },
+ {
+  "n": 4,
+  "date": "2026-12-03",
+  "hour": 10,
+  "hook": "POV: your living room in December 🎄",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f7",
+    0,
+    2.5
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 5,
+  "date": "2026-12-03",
+  "hour": 14,
+  "hook": "Real-looking flame. Zero heat. Zero smoke ✨",
+  "body": "Perfect gift for cozy lovers this Christmas.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f1",
+    1,
+    4
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t12_meghan_trainor_christmas.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 6,
+  "date": "2026-12-03",
+  "hour": 19,
+  "hook": "Fill with water, press a button 💧",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 7,
+  "date": "2026-12-04",
+  "hour": 10,
+  "hook": "Unboxing the gift I'm giving everyone 🎁",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 8,
+  "date": "2026-12-04",
+  "hour": 14,
+  "hook": "This is your sign to get cozy 🕯️",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f6",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5,
+  "mirror": false
+ },
+ {
+  "n": 9,
+  "date": "2026-12-04",
+  "hour": 19,
+  "hook": "Christmas mood in 3 seconds 🎄",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9,
+  "mirror": true
+ },
+ {
+  "n": 10,
+  "date": "2026-12-05",
+  "hour": 10,
+  "hook": "Wait for the flame… 😍",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 11,
+  "date": "2026-12-05",
+  "hour": 14,
+  "hook": "Gift idea for the cozy girl in your life 🤍",
+  "body": "Perfect gift for cozy lovers this Christmas.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f2",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 12,
+  "date": "2026-12-05",
+  "hour": 19,
+  "hook": "Tiny fireplace, huge vibe 🔥",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 13,
+  "date": "2026-12-06",
+  "hour": 10,
+  "hook": "Watch the mist turn into flame ✨",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 14,
+  "date": "2026-12-06",
+  "hour": 14,
+  "hook": "My favorite thing in my apartment right now 🏠",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25,
+  "mirror": false
+ },
+ {
+  "n": 15,
+  "date": "2026-12-06",
+  "hour": 19,
+  "hook": "Evening routine: lights off, fireplace on 🌙",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26,
+  "mirror": true
+ },
+ {
+  "n": 16,
+  "date": "2026-12-07",
+  "hour": 10,
+  "hook": "They'll use this gift every single night 🎁",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f6",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 17,
+  "date": "2026-12-07",
+  "hour": 14,
+  "hook": "Renters, this one's for you 🔑",
+  "body": "Perfect gift for cozy lovers this Christmas.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t12_meghan_trainor_christmas.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 18,
+  "date": "2026-12-07",
+  "hour": 19,
+  "hook": "Cozy without the firewood 🪵",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 19,
+  "date": "2026-12-08",
+  "hour": 10,
+  "hook": "When the apartment has no fireplace… 😌",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    0,
+    2.5
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 20,
+  "date": "2026-12-08",
+  "hour": 14,
+  "hook": "Secret Santa sorted 🎅",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5,
+  "mirror": false
+ },
+ {
+  "n": 21,
+  "date": "2026-12-08",
+  "hour": 19,
+  "hook": "Christmas movie night upgrade 🎬",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9,
+  "mirror": true
+ },
+ {
+  "n": 22,
+  "date": "2026-12-09",
+  "hour": 10,
+  "hook": "Is it fire? Is it mist? Both ✨",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 23,
+  "date": "2026-12-09",
+  "hour": 14,
+  "hook": "Hot cocoa + this = perfect night ☕",
+  "body": "Perfect gift for cozy lovers this Christmas.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    0,
+    2.5
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 24,
+  "date": "2026-12-09",
+  "hour": 19,
+  "hook": "Remote on. Flame on. 🔥",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f2",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 25,
+  "date": "2026-12-10",
+  "hour": 10,
+  "hook": "Gift that looks way more expensive 👀",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 26,
+  "date": "2026-12-10",
+  "hour": 14,
+  "hook": "Makes any room feel like a cabin 🏔️",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f6",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25,
+  "mirror": false
+ },
+ {
+  "n": 27,
+  "date": "2026-12-10",
+  "hour": 19,
+  "hook": "Your cozy corner is missing this 🛋️",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f4",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26,
+  "mirror": true
+ },
+ {
+  "n": 28,
+  "date": "2026-12-11",
+  "hour": 10,
+  "hook": "Christmas is coming, get cozy 🎄",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 29,
+  "date": "2026-12-11",
+  "hour": 14,
+  "hook": "I can't stop watching this flame 😍",
+  "body": "Perfect gift for cozy lovers this Christmas.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t12_meghan_trainor_christmas.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 30,
+  "date": "2026-12-11",
+  "hour": 19,
+  "hook": "Small table, big holiday glow ✨",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 31,
+  "date": "2026-12-12",
+  "hour": 10,
+  "hook": "Turn your nightstand into a fireplace 🌙",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 32,
+  "date": "2026-12-12",
+  "hour": 14,
+  "hook": "December nights hit different 🔥",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5,
+  "mirror": false
+ },
+ {
+  "n": 33,
+  "date": "2026-12-12",
+  "hour": 19,
+  "hook": "From box to cozy in 30 seconds 📦",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9,
+  "mirror": true
+ },
+ {
+  "n": 34,
+  "date": "2026-12-13",
+  "hour": 10,
+  "hook": "Aroma, mist and a flame you can touch ✋",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f7",
+    0,
+    2.5
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 35,
+  "date": "2026-12-13",
+  "hour": 14,
+  "hook": "Gift for mom she'll actually use 💝",
+  "body": "Perfect gift for cozy lovers this Christmas.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f7",
+    0,
+    2.5
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 36,
+  "date": "2026-12-13",
+  "hour": 19,
+  "hook": "The cozy gift everyone's asking about 👀",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f2",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 37,
+  "date": "2026-12-14",
+  "hour": 10,
+  "hook": "Living room glow up 🔥",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 38,
+  "date": "2026-12-14",
+  "hour": 14,
+  "hook": "Adds instant Christmas vibes ✨",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f2",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25,
+  "mirror": false
+ },
+ {
+  "n": 39,
+  "date": "2026-12-14",
+  "hour": 19,
+  "hook": "Who needs a real fireplace? 🤷‍♀️",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f6",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26,
+  "mirror": true
+ },
+ {
+  "n": 40,
+  "date": "2026-12-15",
+  "hour": 10,
+  "hook": "Under-the-tree gift idea 🎁",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 41,
+  "date": "2026-12-15",
+  "hour": 14,
+  "hook": "This is how I relax after work 😌",
+  "body": "Perfect gift for cozy lovers this Christmas.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t12_meghan_trainor_christmas.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 42,
+  "date": "2026-12-15",
+  "hour": 19,
+  "hook": "Cozy season essential 🕯️",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f6",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 43,
+  "date": "2026-12-16",
+  "hour": 10,
+  "hook": "Calm, warm, glowing 🔥",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 44,
+  "date": "2026-12-16",
+  "hour": 14,
+  "hook": "Gift for the person who has everything 🎁",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5,
+  "mirror": false
+ },
+ {
+  "n": 45,
+  "date": "2026-12-16",
+  "hour": 19,
+  "hook": "That moment the flame turns on 😍",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9,
+  "mirror": true
+ },
+ {
+  "n": 46,
+  "date": "2026-12-17",
+  "hour": 10,
+  "hook": "No smoke, no ashes, just cozy ✨",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 47,
+  "date": "2026-12-17",
+  "hour": 14,
+  "hook": "Fireplace vibes in a small apartment 🏠",
+  "body": "Perfect gift for cozy lovers this Christmas.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 48,
+  "date": "2026-12-17",
+  "hour": 19,
+  "hook": "Holiday hosting? Put this on the table 🍽️",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f1",
+    1,
+    4
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 49,
+  "date": "2026-12-18",
+  "hour": 10,
+  "hook": "Pure cozy in one box 📦",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 50,
+  "date": "2026-12-18",
+  "hour": 14,
+  "hook": "A gift that sets the mood 🔥",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f7",
+    0,
+    2.5
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25,
+  "mirror": false
+ },
+ {
+  "n": 51,
+  "date": "2026-12-18",
+  "hour": 19,
+  "hook": "Make your home smell and look cozy 🌲",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f1",
+    1,
+    4
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26,
+  "mirror": true
+ },
+ {
+  "n": 52,
+  "date": "2026-12-19",
+  "hour": 10,
+  "hook": "Stocking stuffer? More like room changer 🧦",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f2",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 53,
+  "date": "2026-12-19",
+  "hour": 14,
+  "hook": "Plug in. Pour water. Relax 💧",
+  "body": "Perfect gift for cozy lovers this Christmas.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f7",
+    5,
+    7.5
+   ],
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t12_meghan_trainor_christmas.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 54,
+  "date": "2026-12-19",
+  "hour": 19,
+  "hook": "Bedroom, office, living room — anywhere 🔥",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 55,
+  "date": "2026-12-20",
+  "hour": 10,
+  "hook": "Christmas wishlist: this ✅",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 56,
+  "date": "2026-12-20",
+  "hour": 14,
+  "hook": "Why didn't I get this sooner 😭",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f1",
+    1,
+    4
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5,
+  "mirror": false
+ },
+ {
+  "n": 57,
+  "date": "2026-12-20",
+  "hour": 19,
+  "hook": "The flame that never burns 🔥",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9,
+  "mirror": true
+ },
+ {
+  "n": 58,
+  "date": "2026-12-21",
+  "hour": 10,
+  "hook": "Winter evenings sorted ❄️",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f2",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 59,
+  "date": "2026-12-21",
+  "hour": 14,
+  "hook": "It's giving cabin in the woods 🪵",
+  "body": "Perfect gift for cozy lovers this Christmas.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f7",
+    0,
+    2.5
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 60,
+  "date": "2026-12-21",
+  "hour": 19,
+  "hook": "Last-minute gift that wows 🎁",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f7",
+    0,
+    2.5
+   ],
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f1",
+    4,
+    7
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 61,
+  "date": "2026-12-22",
+  "hour": 10,
+  "hook": "Cozy corner, finished ✅",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 62,
+  "date": "2026-12-22",
+  "hour": 14,
+  "hook": "Instant Christmas atmosphere 🎄",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f2",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f5",
+   0,
+   3
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25,
+  "mirror": false
+ },
+ {
+  "n": 63,
+  "date": "2026-12-22",
+  "hour": 19,
+  "hook": "Lights off. Fireplace on. 🌙",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ],
+   [
+    "f4",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26,
+  "mirror": true
+ },
+ {
+  "n": 64,
+  "date": "2026-12-23",
+  "hour": 10,
+  "hook": "The gift that keeps glowing ✨",
+  "body": "A cozy fireplace look for any table.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f7",
+    5,
+    7.5
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 65,
+  "date": "2026-12-23",
+  "hour": 14,
+  "hook": "Holiday vibes without the mess 🧹",
+  "body": "Perfect gift for cozy lovers this Christmas.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f1",
+    1,
+    4
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t12_meghan_trainor_christmas.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 66,
+  "date": "2026-12-23",
+  "hour": 19,
+  "hook": "Most cozy thing I own 🤍",
+  "body": "Realistic 3D flame with soft mist and aroma.",
+  "tags": "#fireplacedecor #cozyseason #homedecor #christmasgifts #fyp",
+  "scenes": [
+   [
+    "f1",
+    1,
+    4
+   ],
+   [
+    "f4",
+    0,
+    3
+   ],
+   [
+    "f7",
+    2.5,
+    5
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0,
+  "mirror": true
+ },
+ {
+  "n": 67,
+  "date": "2026-12-24",
+  "hour": 10,
+  "hook": "Merry & cozy 🔥",
+  "body": "Just add water and turn it on with the remote.",
+  "tags": "#flamehumidifier #cozyroom #giftsforher #holidaydecor #fyp",
+  "scenes": [
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f7",
+    10,
+    12.4
+   ],
+   [
+    "f2",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0,
+  "mirror": false
+ },
+ {
+  "n": 68,
+  "date": "2026-12-24",
+  "hour": 14,
+  "hook": "Christmas Eve mood 🎄",
+  "body": "No heat, no smoke — safe for any room.",
+  "tags": "#flamediffuser #fireplace #cozyhome #christmasgift #fyp",
+  "scenes": [
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f1",
+    4,
+    7
+   ],
+   [
+    "f1",
+    1,
+    4
+   ]
+  ],
+  "end": [
+   "f7",
+   12.4,
+   15
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5,
+  "mirror": false
+ },
+ {
+  "n": 69,
+  "date": "2026-12-24",
+  "hour": 19,
+  "hook": "Last days to make it under the tree 🎁",
+  "body": "7 flame colors to match your mood.",
+  "tags": "#cozyvibes #aromadiffuser #christmasdecor #giftideas #fyp",
+  "scenes": [
+   [
+    "f6",
+    0,
+    3
+   ],
+   [
+    "f2",
+    0,
+    3
+   ],
+   [
+    "f4",
+    0,
+    3
+   ]
+  ],
+  "end": [
+   "f1",
+   7,
+   10
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9,
+  "mirror": true
+ }
+]
