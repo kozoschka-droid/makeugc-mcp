@@ -38,6 +38,9 @@ COZY = ["Every home needs this 🥹❤️","Every room needs this 🥹🌙","Off
 RITUAL = ["One click and my room feels like a cabin 🥹🪵","My favourite button in the house 🥹","End of the day ritual 🌙🔥","The moment I get home ❄️🔥","Press… and relax 🥹"]
 SETUP = ["Just water and a few seconds 🥹💧","It's actually mist, not fire 🥹","No smoke, no ash, just cozy 🥹"]
 REPLY = ["Where can I buy this? 😭", "Is it real fire?? 😳", "I need this, where is it from? 🥹"]   # «відповідь на коментар»
+ANS = {"Where can I buy this? 😭": ("Yes, we sell them 🥹 link in bio", "Yes, we sell them 🥹 Link in bio"),
+       "Is it real fire?? 😳": ("No, it's just mist and light 🥹", "No, it's mist and light, safe to touch 🥹 Link in bio"),
+       "I need this, where is it from? 🥹": ("Link in bio 🥹", "It's from our shop 🥹 Link in bio")}
 XMAS = {"2026-12-24": ["Christmas Eve by the fire 🎄🥹","Waiting for Santa like 🥹🔥","Christmas Eve, lights off 🌙🎄"],
         "2026-12-25": ["Merry Christmas from my cozy corner 🎄🔥","Christmas morning, flame on 🎁🥹","Our first Christmas with it 🥹❤️"]}
 POST = ["Best gift I got this year 🥹","Still obsessed after Christmas 🥹","Leftovers, movie, flame on 🥹","The coziest week of the year 🥹","Lights off after Christmas 🌙🥹",
@@ -76,8 +79,8 @@ def build_plan():
         scenes = [{"v": v, "s": a, "e": b, "sp": sp, "mirror": rng.random() < 0.5, "zoom": round(rng.uniform(1.0, 1.12), 2)} for v, a, b, sp in rec]
         tr, ms = TRACKS[n % len(TRACKS)]
         if t == "REPLY":
-            texts = [{"text": h, "start": 0, "end": 99, "pos": 0.22}, {"text": "Yes, we sell them 🥹 link in bio", "start": 2.2, "end": 99, "pos": "bottom"}]
-            cap = f"Yes, we sell them 🥹 Link in bio"
+            texts = [{"text": h, "start": 0, "end": 99, "pos": 0.22}, {"text": ANS[h][0], "start": 2.2, "end": 99, "pos": "bottom"}]
+            cap = ANS[h][1]
         else:
             texts = [{"text": h, "start": 0, "end": 99, "pos": "top"}]
             cap = h + (" Link in bio" if n % 3 == 0 else "")

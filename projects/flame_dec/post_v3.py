@@ -5,6 +5,8 @@ B = f"https://raw.githubusercontent.com/kozoschka-droid/makeugc-mcp/{SHA}/media/
 LINK = "https://luvinor.store/products/new-flame-aromatherapy-machine-colorful-essential-oil-diffuser-home-large-fog-volume-flame-humidifier-3d-flame-fireplace-machine"
 plan = json.load(open("projects/flame_dec/reels_v3_plan.json"))
 ids = {int(l.split()[0]): l.split()[1:] for l in open("projects/flame_dec/v1_ids.txt")}
+import os
+cur = {int(l.split()[0]): l.split()[1] for l in open("projects/flame_dec/cur_ids.txt")} if os.path.exists("projects/flame_dec/cur_ids.txt") else {}
 for n in map(int, sys.argv[2:]):
     p = plan[n - 1]; f = f"v{n:02d}_{p['date'][5:]}_{p['hour']:02d}.mp4"; dt = f"{p['date']}T{p['hour']:02d}:00:00"
     plain = re.sub(r"[^\w\s,'’?!.:&+$—-]", "", p["hook"]).strip()
@@ -17,4 +19,4 @@ for n in map(int, sys.argv[2:]):
             "tiktokData": {"title": p["caption"], "privacyOption": "PUBLIC_TO_EVERYONE", "isAigc": True},
             "pinterestData": {"boardId": "905927349984171958", "pinTitle": (plain + " – Flame Fireplace Diffuser")[:95], "pinLink": LINK, "pinNewFormat": True,
                               "isAiGenerated": True, "isAiGeneratedPerson": False}}
-    print(n, ids[n][0], ids[n][1], dt); print(json.dumps(info, ensure_ascii=False))
+    print(n, cur.get(n, ids[n][0]), ids[n][1], dt); print(json.dumps(info, ensure_ascii=False))
