@@ -1,0 +1,3541 @@
+[
+ {
+  "n": 1,
+  "date": "2026-12-02",
+  "hour": 10,
+  "type": "H",
+  "hook": "The best gift I gave my mom 🥹🎁",
+  "caption": "The best gift I gave my mom 🥹🎁 #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.11
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.0
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.0
+   }
+  ],
+  "texts": [
+   {
+    "text": "The best gift I gave my mom 🥹🎁",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0
+ },
+ {
+  "n": 2,
+  "date": "2026-12-02",
+  "hour": 14,
+  "type": "H",
+  "hook": "Every home needs this 🥹❤️",
+  "caption": "Every home needs this 🥹❤️ #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": false,
+    "zoom": 1.11
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": false,
+    "zoom": 1.11
+   }
+  ],
+  "texts": [
+   {
+    "text": "Every home needs this 🥹❤️",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25
+ },
+ {
+  "n": 3,
+  "date": "2026-12-02",
+  "hour": 19,
+  "type": "H",
+  "hook": "Christmas gift for the friend who's always cold 🎁❄️",
+  "caption": "Christmas gift for the friend who's always cold 🎁❄️ Link in bio #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.11
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.02
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.04
+   }
+  ],
+  "texts": [
+   {
+    "text": "Christmas gift for the friend who's always cold 🎁❄️",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26
+ },
+ {
+  "n": 4,
+  "date": "2026-12-03",
+  "hour": 10,
+  "type": "H",
+  "hook": "Every room needs this 🥹🌙",
+  "caption": "Every room needs this 🥹🌙 #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": false,
+    "zoom": 1.09
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": false,
+    "zoom": 1.06
+   }
+  ],
+  "texts": [
+   {
+    "text": "Every room needs this 🥹🌙",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0
+ },
+ {
+  "n": 5,
+  "date": "2026-12-03",
+  "hour": 14,
+  "type": "H",
+  "hook": "One click and my room feels like a cabin 🥹🪵",
+  "caption": "One click and my room feels like a cabin 🥹🪵 #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "R",
+  "scenes": [
+   {
+    "v": "f4",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.1
+   },
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.75,
+    "mirror": false,
+    "zoom": 1.12
+   }
+  ],
+  "texts": [
+   {
+    "text": "One click and my room feels like a cabin 🥹🪵",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0
+ },
+ {
+  "n": 6,
+  "date": "2026-12-03",
+  "hour": 19,
+  "type": "REPLY",
+  "hook": "Where can I buy this? 😭",
+  "caption": "Yes, we sell them 🥹 Link in bio #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.04
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.01
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.12
+   }
+  ],
+  "texts": [
+   {
+    "text": "Where can I buy this? 😭",
+    "start": 0,
+    "end": 99,
+    "pos": 0.22
+   },
+   {
+    "text": "Yes, we sell them 🥹 link in bio",
+    "start": 2.2,
+    "end": 99,
+    "pos": "bottom"
+   }
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0
+ },
+ {
+  "n": 7,
+  "date": "2026-12-04",
+  "hour": 10,
+  "type": "H",
+  "hook": "My sister's Christmas gift is sorted 🎁",
+  "caption": "My sister's Christmas gift is sorted 🎁 #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0.3,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.01
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.08
+   }
+  ],
+  "texts": [
+   {
+    "text": "My sister's Christmas gift is sorted 🎁",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5
+ },
+ {
+  "n": 8,
+  "date": "2026-12-04",
+  "hour": 14,
+  "type": "H",
+  "hook": "It's so cozy 🥰",
+  "caption": "It's so cozy 🥰 #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": false,
+    "zoom": 1.11
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": false,
+    "zoom": 1.02
+   }
+  ],
+  "texts": [
+   {
+    "text": "It's so cozy 🥰",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9
+ },
+ {
+  "n": 9,
+  "date": "2026-12-04",
+  "hour": 19,
+  "type": "H",
+  "hook": "Unboxing my favourite Christmas gift 🥹📦",
+  "caption": "Unboxing my favourite Christmas gift 🥹📦 Link in bio #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.02
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.07
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.02
+   }
+  ],
+  "texts": [
+   {
+    "text": "Unboxing my favourite Christmas gift 🥹📦",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0
+ },
+ {
+  "n": 10,
+  "date": "2026-12-05",
+  "hour": 10,
+  "type": "H",
+  "hook": "My mini fireplace 🥹🔥",
+  "caption": "My mini fireplace 🥹🔥 #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": false,
+    "zoom": 1.11
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.07
+   }
+  ],
+  "texts": [
+   {
+    "text": "My mini fireplace 🥹🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0
+ },
+ {
+  "n": 11,
+  "date": "2026-12-05",
+  "hour": 14,
+  "type": "H",
+  "hook": "Cutest gift under $70 🎁",
+  "caption": "Cutest gift under $70 🎁 #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.01
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.03
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.05
+   }
+  ],
+  "texts": [
+   {
+    "text": "Cutest gift under $70 🎁",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0
+ },
+ {
+  "n": 12,
+  "date": "2026-12-05",
+  "hour": 19,
+  "type": "REPLY",
+  "hook": "Is it real fire?? 😳",
+  "caption": "Yes, we sell them 🥹 Link in bio #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.04
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.11
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": false,
+    "zoom": 1.05
+   }
+  ],
+  "texts": [
+   {
+    "text": "Is it real fire?? 😳",
+    "start": 0,
+    "end": 99,
+    "pos": 0.22
+   },
+   {
+    "text": "Yes, we sell them 🥹 link in bio",
+    "start": 2.2,
+    "end": 99,
+    "pos": "bottom"
+   }
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0
+ },
+ {
+  "n": 13,
+  "date": "2026-12-06",
+  "hour": 10,
+  "type": "H",
+  "hook": "Opening it like it's Christmas morning 🎄📦",
+  "caption": "Opening it like it's Christmas morning 🎄📦 #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0.3,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.11
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.09
+   }
+  ],
+  "texts": [
+   {
+    "text": "Opening it like it's Christmas morning 🎄📦",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25
+ },
+ {
+  "n": 14,
+  "date": "2026-12-06",
+  "hour": 14,
+  "type": "H",
+  "hook": "My favourite button in the house 🥹",
+  "caption": "My favourite button in the house 🥹 #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "R",
+  "scenes": [
+   {
+    "v": "f4",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.02
+   },
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.75,
+    "mirror": true,
+    "zoom": 1.01
+   }
+  ],
+  "texts": [
+   {
+    "text": "My favourite button in the house 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26
+ },
+ {
+  "n": 15,
+  "date": "2026-12-06",
+  "hour": 19,
+  "type": "H",
+  "hook": "For the cozy girl in your life 🎁🥹",
+  "caption": "For the cozy girl in your life 🎁🥹 Link in bio #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.05
+   }
+  ],
+  "texts": [
+   {
+    "text": "For the cozy girl in your life 🎁🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0
+ },
+ {
+  "n": 16,
+  "date": "2026-12-07",
+  "hour": 10,
+  "type": "H",
+  "hook": "Can't fall asleep without it now 😴🔥",
+  "caption": "Can't fall asleep without it now 😴🔥 #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.04
+   }
+  ],
+  "texts": [
+   {
+    "text": "Can't fall asleep without it now 😴🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0
+ },
+ {
+  "n": 17,
+  "date": "2026-12-07",
+  "hour": 14,
+  "type": "H",
+  "hook": "Secret Santa? Sorted 🎅🎁",
+  "caption": "Secret Santa? Sorted 🎅🎁 #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.06
+   },
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.75,
+    "mirror": true,
+    "zoom": 1.07
+   }
+  ],
+  "texts": [
+   {
+    "text": "Secret Santa? Sorted 🎅🎁",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0
+ },
+ {
+  "n": 18,
+  "date": "2026-12-07",
+  "hour": 19,
+  "type": "REPLY",
+  "hook": "I need this, where is it from? 🥹",
+  "caption": "Yes, we sell them 🥹 Link in bio #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0.3,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.02
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": false,
+    "zoom": 1.1
+   }
+  ],
+  "texts": [
+   {
+    "text": "I need this, where is it from? 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": 0.22
+   },
+   {
+    "text": "Yes, we sell them 🥹 link in bio",
+    "start": 2.2,
+    "end": 99,
+    "pos": "bottom"
+   }
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5
+ },
+ {
+  "n": 19,
+  "date": "2026-12-08",
+  "hour": 10,
+  "type": "H",
+  "hook": "Gift for someone who loves cozy nights 🎁🌙",
+  "caption": "Gift for someone who loves cozy nights 🎁🌙 #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.01
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.05
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": false,
+    "zoom": 1.04
+   }
+  ],
+  "texts": [
+   {
+    "text": "Gift for someone who loves cozy nights 🎁🌙",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9
+ },
+ {
+  "n": 20,
+  "date": "2026-12-08",
+  "hour": 14,
+  "type": "H",
+  "hook": "Literally perfect 🥹🤍",
+  "caption": "Literally perfect 🥹🤍 #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": true,
+    "zoom": 1.05
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.0
+   }
+  ],
+  "texts": [
+   {
+    "text": "Literally perfect 🥹🤍",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0
+ },
+ {
+  "n": 21,
+  "date": "2026-12-08",
+  "hour": 19,
+  "type": "H",
+  "hook": "Early Christmas present to myself 🥹🎁",
+  "caption": "Early Christmas present to myself 🥹🎁 Link in bio #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": false,
+    "zoom": 1.12
+   }
+  ],
+  "texts": [
+   {
+    "text": "Early Christmas present to myself 🥹🎁",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0
+ },
+ {
+  "n": 22,
+  "date": "2026-12-09",
+  "hour": 10,
+  "type": "H",
+  "hook": "So calming… 🥹",
+  "caption": "So calming… 🥹 #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.05
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.09
+   }
+  ],
+  "texts": [
+   {
+    "text": "So calming… 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0
+ },
+ {
+  "n": 23,
+  "date": "2026-12-09",
+  "hour": 14,
+  "type": "H",
+  "hook": "End of the day ritual 🌙🔥",
+  "caption": "End of the day ritual 🌙🔥 #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "R",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 10,
+    "e": 12.4,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.02
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.04
+   }
+  ],
+  "texts": [
+   {
+    "text": "End of the day ritual 🌙🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0
+ },
+ {
+  "n": 24,
+  "date": "2026-12-09",
+  "hour": 19,
+  "type": "REPLY",
+  "hook": "Where can I buy this? 😭",
+  "caption": "Yes, we sell them 🥹 Link in bio #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.11
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.02
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.04
+   }
+  ],
+  "texts": [
+   {
+    "text": "Where can I buy this? 😭",
+    "start": 0,
+    "end": 99,
+    "pos": 0.22
+   },
+   {
+    "text": "Yes, we sell them 🥹 link in bio",
+    "start": 2.2,
+    "end": 99,
+    "pos": "bottom"
+   }
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25
+ },
+ {
+  "n": 25,
+  "date": "2026-12-10",
+  "hour": 10,
+  "type": "H",
+  "hook": "Bought one for my mom… now I want one too 🥹",
+  "caption": "Bought one for my mom… now I want one too 🥹 #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0.3,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.1
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": false,
+    "zoom": 1.04
+   }
+  ],
+  "texts": [
+   {
+    "text": "Bought one for my mom… now I want one too 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26
+ },
+ {
+  "n": 26,
+  "date": "2026-12-10",
+  "hour": 14,
+  "type": "H",
+  "hook": "Cold outside, cozy inside ❄️🥹",
+  "caption": "Cold outside, cozy inside ❄️🥹 #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": false,
+    "zoom": 1.03
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.04
+   }
+  ],
+  "texts": [
+   {
+    "text": "Cold outside, cozy inside ❄️🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0
+ },
+ {
+  "n": 27,
+  "date": "2026-12-10",
+  "hour": 19,
+  "type": "H",
+  "hook": "Finally got it 😭📦",
+  "caption": "Finally got it 😭📦 Link in bio #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.05
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.04
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.1
+   }
+  ],
+  "texts": [
+   {
+    "text": "Finally got it 😭📦",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0
+ },
+ {
+  "n": 28,
+  "date": "2026-12-11",
+  "hour": 10,
+  "type": "H",
+  "hook": "This is my happy place 🥹",
+  "caption": "This is my happy place 🥹 #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": false,
+    "zoom": 1.08
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.09
+   }
+  ],
+  "texts": [
+   {
+    "text": "This is my happy place 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0
+ },
+ {
+  "n": 29,
+  "date": "2026-12-11",
+  "hour": 14,
+  "type": "H",
+  "hook": "It's even prettier in real life 🥹",
+  "caption": "It's even prettier in real life 🥹 #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0.3,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.08
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": false,
+    "zoom": 1.03
+   }
+  ],
+  "texts": [
+   {
+    "text": "It's even prettier in real life 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5
+ },
+ {
+  "n": 30,
+  "date": "2026-12-11",
+  "hour": 19,
+  "type": "REPLY",
+  "hook": "Is it real fire?? 😳",
+  "caption": "Yes, we sell them 🥹 Link in bio #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.09
+   },
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.75,
+    "mirror": false,
+    "zoom": 1.12
+   }
+  ],
+  "texts": [
+   {
+    "text": "Is it real fire?? 😳",
+    "start": 0,
+    "end": 99,
+    "pos": 0.22
+   },
+   {
+    "text": "Yes, we sell them 🥹 link in bio",
+    "start": 2.2,
+    "end": 99,
+    "pos": "bottom"
+   }
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9
+ },
+ {
+  "n": 31,
+  "date": "2026-12-12",
+  "hour": 10,
+  "type": "H",
+  "hook": "Unbox it with me 🥹📦",
+  "caption": "Unbox it with me 🥹📦 #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0.3,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.03
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": false,
+    "zoom": 1.03
+   }
+  ],
+  "texts": [
+   {
+    "text": "Unbox it with me 🥹📦",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0
+ },
+ {
+  "n": 32,
+  "date": "2026-12-12",
+  "hour": 14,
+  "type": "H",
+  "hook": "The moment I get home ❄️🔥",
+  "caption": "The moment I get home ❄️🔥 #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.01
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.06
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": false,
+    "zoom": 1.06
+   }
+  ],
+  "texts": [
+   {
+    "text": "The moment I get home ❄️🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0
+ },
+ {
+  "n": 33,
+  "date": "2026-12-12",
+  "hour": 19,
+  "type": "H",
+  "hook": "Worth every penny 🥹",
+  "caption": "Worth every penny 🥹 Link in bio #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.08
+   },
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.75,
+    "mirror": true,
+    "zoom": 1.08
+   }
+  ],
+  "texts": [
+   {
+    "text": "Worth every penny 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0
+ },
+ {
+  "n": 34,
+  "date": "2026-12-13",
+  "hour": 10,
+  "type": "H",
+  "hook": "Winter nights hit different now ❄️🔥",
+  "caption": "Winter nights hit different now ❄️🔥 #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.04
+   }
+  ],
+  "texts": [
+   {
+    "text": "Winter nights hit different now ❄️🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0
+ },
+ {
+  "n": 35,
+  "date": "2026-12-13",
+  "hour": 14,
+  "type": "H",
+  "hook": "Took 1 minute to set up 🥹",
+  "caption": "Took 1 minute to set up 🥹 #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.01
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.06
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": false,
+    "zoom": 1.06
+   }
+  ],
+  "texts": [
+   {
+    "text": "Took 1 minute to set up 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25
+ },
+ {
+  "n": 36,
+  "date": "2026-12-13",
+  "hour": 19,
+  "type": "REPLY",
+  "hook": "I need this, where is it from? 🥹",
+  "caption": "Yes, we sell them 🥹 Link in bio #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.11
+   },
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.75,
+    "mirror": true,
+    "zoom": 1.09
+   }
+  ],
+  "texts": [
+   {
+    "text": "I need this, where is it from? 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": 0.22
+   },
+   {
+    "text": "Yes, we sell them 🥹 link in bio",
+    "start": 2.2,
+    "end": 99,
+    "pos": "bottom"
+   }
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26
+ },
+ {
+  "n": 37,
+  "date": "2026-12-14",
+  "hour": 10,
+  "type": "H",
+  "hook": "The gift that made her say wow 🥹",
+  "caption": "The gift that made her say wow 🥹 #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0.3,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.11
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": false,
+    "zoom": 1.05
+   }
+  ],
+  "texts": [
+   {
+    "text": "The gift that made her say wow 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0
+ },
+ {
+  "n": 38,
+  "date": "2026-12-14",
+  "hour": 14,
+  "type": "H",
+  "hook": "The glow I needed this winter 🥹",
+  "caption": "The glow I needed this winter 🥹 #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.02
+   }
+  ],
+  "texts": [
+   {
+    "text": "The glow I needed this winter 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0
+ },
+ {
+  "n": 39,
+  "date": "2026-12-14",
+  "hour": 19,
+  "type": "H",
+  "hook": "The best gift I gave my mom 🥹🎁",
+  "caption": "The best gift I gave my mom 🥹🎁 Link in bio #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.0
+   },
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.75,
+    "mirror": false,
+    "zoom": 1.01
+   }
+  ],
+  "texts": [
+   {
+    "text": "The best gift I gave my mom 🥹🎁",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0
+ },
+ {
+  "n": 40,
+  "date": "2026-12-15",
+  "hour": 10,
+  "type": "H",
+  "hook": "Small apartment, big cozy 🥹🔥",
+  "caption": "Small apartment, big cozy 🥹🔥 #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": true,
+    "zoom": 1.08
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": false,
+    "zoom": 1.09
+   }
+  ],
+  "texts": [
+   {
+    "text": "Small apartment, big cozy 🥹🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5
+ },
+ {
+  "n": 41,
+  "date": "2026-12-15",
+  "hour": 14,
+  "type": "H",
+  "hook": "Press… and relax 🥹",
+  "caption": "Press… and relax 🥹 #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "R",
+  "scenes": [
+   {
+    "v": "f4",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.04
+   },
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.75,
+    "mirror": false,
+    "zoom": 1.04
+   }
+  ],
+  "texts": [
+   {
+    "text": "Press… and relax 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9
+ },
+ {
+  "n": 42,
+  "date": "2026-12-15",
+  "hour": 19,
+  "type": "REPLY",
+  "hook": "Where can I buy this? 😭",
+  "caption": "Yes, we sell them 🥹 Link in bio #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.05
+   },
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.75,
+    "mirror": false,
+    "zoom": 1.07
+   }
+  ],
+  "texts": [
+   {
+    "text": "Where can I buy this? 😭",
+    "start": 0,
+    "end": 99,
+    "pos": 0.22
+   },
+   {
+    "text": "Yes, we sell them 🥹 link in bio",
+    "start": 2.2,
+    "end": 99,
+    "pos": "bottom"
+   }
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0
+ },
+ {
+  "n": 43,
+  "date": "2026-12-16",
+  "hour": 10,
+  "type": "H",
+  "hook": "Gift idea for the girl who has everything 🎁🥹",
+  "caption": "Gift idea for the girl who has everything 🎁🥹 #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0.3,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.11
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.01
+   }
+  ],
+  "texts": [
+   {
+    "text": "Gift idea for the girl who has everything 🎁🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0
+ },
+ {
+  "n": 44,
+  "date": "2026-12-16",
+  "hour": 14,
+  "type": "H",
+  "hook": "Best purchase this winter 🥹",
+  "caption": "Best purchase this winter 🥹 #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": false,
+    "zoom": 1.12
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": false,
+    "zoom": 1.07
+   }
+  ],
+  "texts": [
+   {
+    "text": "Best purchase this winter 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0
+ },
+ {
+  "n": 45,
+  "date": "2026-12-16",
+  "hour": 19,
+  "type": "H",
+  "hook": "My sister's Christmas gift is sorted 🎁",
+  "caption": "My sister's Christmas gift is sorted 🎁 Link in bio #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0.3,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.12
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.09
+   }
+  ],
+  "texts": [
+   {
+    "text": "My sister's Christmas gift is sorted 🎁",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0
+ },
+ {
+  "n": 46,
+  "date": "2026-12-17",
+  "hour": 10,
+  "type": "H",
+  "hook": "The vibe in my room right now 🥹",
+  "caption": "The vibe in my room right now 🥹 #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.03
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.11
+   }
+  ],
+  "texts": [
+   {
+    "text": "The vibe in my room right now 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25
+ },
+ {
+  "n": 47,
+  "date": "2026-12-17",
+  "hour": 14,
+  "type": "H",
+  "hook": "Unboxing my favourite Christmas gift 🥹📦",
+  "caption": "Unboxing my favourite Christmas gift 🥹📦 #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.05
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.06
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.05
+   }
+  ],
+  "texts": [
+   {
+    "text": "Unboxing my favourite Christmas gift 🥹📦",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26
+ },
+ {
+  "n": 48,
+  "date": "2026-12-17",
+  "hour": 19,
+  "type": "REPLY",
+  "hook": "Is it real fire?? 😳",
+  "caption": "Yes, we sell them 🥹 Link in bio #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.09
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.07
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": false,
+    "zoom": 1.02
+   }
+  ],
+  "texts": [
+   {
+    "text": "Is it real fire?? 😳",
+    "start": 0,
+    "end": 99,
+    "pos": 0.22
+   },
+   {
+    "text": "Yes, we sell them 🥹 link in bio",
+    "start": 2.2,
+    "end": 99,
+    "pos": "bottom"
+   }
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0
+ },
+ {
+  "n": 49,
+  "date": "2026-12-18",
+  "hour": 10,
+  "type": "H",
+  "hook": "Cutest gift under $70 🎁",
+  "caption": "Cutest gift under $70 🎁 #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.08
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.05
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": false,
+    "zoom": 1.03
+   }
+  ],
+  "texts": [
+   {
+    "text": "Cutest gift under $70 🎁",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0
+ },
+ {
+  "n": 50,
+  "date": "2026-12-18",
+  "hour": 14,
+  "type": "H",
+  "hook": "Just water and a few seconds 🥹💧",
+  "caption": "Just water and a few seconds 🥹💧 #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "P",
+  "scenes": [
+   {
+    "v": "f2",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.0
+   },
+   {
+    "v": "f4",
+    "s": 0.3,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.04
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.9,
+    "mirror": true,
+    "zoom": 1.02
+   }
+  ],
+  "texts": [
+   {
+    "text": "Just water and a few seconds 🥹💧",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0
+ },
+ {
+  "n": 51,
+  "date": "2026-12-18",
+  "hour": 19,
+  "type": "H",
+  "hook": "Opening it like it's Christmas morning 🎄📦",
+  "caption": "Opening it like it's Christmas morning 🎄📦 Link in bio #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.08
+   },
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.75,
+    "mirror": true,
+    "zoom": 1.02
+   }
+  ],
+  "texts": [
+   {
+    "text": "Opening it like it's Christmas morning 🎄📦",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5
+ },
+ {
+  "n": 52,
+  "date": "2026-12-19",
+  "hour": 10,
+  "type": "H",
+  "hook": "Hot cocoa + this 🥹☕",
+  "caption": "Hot cocoa + this 🥹☕ #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": true,
+    "zoom": 1.11
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.05
+   }
+  ],
+  "texts": [
+   {
+    "text": "Hot cocoa + this 🥹☕",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9
+ },
+ {
+  "n": 53,
+  "date": "2026-12-19",
+  "hour": 14,
+  "type": "H",
+  "hook": "For the cozy girl in your life 🎁🥹",
+  "caption": "For the cozy girl in your life 🎁🥹 #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": false,
+    "zoom": 1.05
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.05
+   }
+  ],
+  "texts": [
+   {
+    "text": "For the cozy girl in your life 🎁🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0
+ },
+ {
+  "n": 54,
+  "date": "2026-12-19",
+  "hour": 19,
+  "type": "REPLY",
+  "hook": "I need this, where is it from? 🥹",
+  "caption": "Yes, we sell them 🥹 Link in bio #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0.3,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.01
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": false,
+    "zoom": 1.08
+   }
+  ],
+  "texts": [
+   {
+    "text": "I need this, where is it from? 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": 0.22
+   },
+   {
+    "text": "Yes, we sell them 🥹 link in bio",
+    "start": 2.2,
+    "end": 99,
+    "pos": "bottom"
+   }
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0
+ },
+ {
+  "n": 55,
+  "date": "2026-12-20",
+  "hour": 10,
+  "type": "H",
+  "hook": "Secret Santa? Sorted 🎅🎁",
+  "caption": "Secret Santa? Sorted 🎅🎁 #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.11
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.06
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": false,
+    "zoom": 1.01
+   }
+  ],
+  "texts": [
+   {
+    "text": "Secret Santa? Sorted 🎅🎁",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0
+ },
+ {
+  "n": 56,
+  "date": "2026-12-20",
+  "hour": 14,
+  "type": "H",
+  "hook": "It feels like a cabin 🥹🪵",
+  "caption": "It feels like a cabin 🥹🪵 #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.08
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": false,
+    "zoom": 1.09
+   }
+  ],
+  "texts": [
+   {
+    "text": "It feels like a cabin 🥹🪵",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0
+ },
+ {
+  "n": 57,
+  "date": "2026-12-20",
+  "hour": 19,
+  "type": "H",
+  "hook": "Gift for someone who loves cozy nights 🎁🌙",
+  "caption": "Gift for someone who loves cozy nights 🎁🌙 Link in bio #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0.3,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.07
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.01
+   }
+  ],
+  "texts": [
+   {
+    "text": "Gift for someone who loves cozy nights 🎁🌙",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25
+ },
+ {
+  "n": 58,
+  "date": "2026-12-21",
+  "hour": 10,
+  "type": "H",
+  "hook": "Tag someone who needs this 🥹❤️",
+  "caption": "Tag someone who needs this 🥹❤️ #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": false,
+    "zoom": 1.05
+   }
+  ],
+  "texts": [
+   {
+    "text": "Tag someone who needs this 🥹❤️",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26
+ },
+ {
+  "n": 59,
+  "date": "2026-12-21",
+  "hour": 14,
+  "type": "H",
+  "hook": "It's actually mist, not fire 🥹",
+  "caption": "It's actually mist, not fire 🥹 #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "P",
+  "scenes": [
+   {
+    "v": "f2",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.02
+   },
+   {
+    "v": "f4",
+    "s": 0.3,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.01
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.9,
+    "mirror": false,
+    "zoom": 1.02
+   }
+  ],
+  "texts": [
+   {
+    "text": "It's actually mist, not fire 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0
+ },
+ {
+  "n": 60,
+  "date": "2026-12-21",
+  "hour": 19,
+  "type": "REPLY",
+  "hook": "Where can I buy this? 😭",
+  "caption": "Yes, we sell them 🥹 Link in bio #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.03
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.06
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.11
+   }
+  ],
+  "texts": [
+   {
+    "text": "Where can I buy this? 😭",
+    "start": 0,
+    "end": 99,
+    "pos": 0.22
+   },
+   {
+    "text": "Yes, we sell them 🥹 link in bio",
+    "start": 2.2,
+    "end": 99,
+    "pos": "bottom"
+   }
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0
+ },
+ {
+  "n": 61,
+  "date": "2026-12-22",
+  "hour": 10,
+  "type": "H",
+  "hook": "Every mom needs this 🥹❤️",
+  "caption": "Every mom needs this 🥹❤️ #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.02
+   },
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.75,
+    "mirror": true,
+    "zoom": 1.1
+   }
+  ],
+  "texts": [
+   {
+    "text": "Every mom needs this 🥹❤️",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0
+ },
+ {
+  "n": 62,
+  "date": "2026-12-22",
+  "hour": 14,
+  "type": "H",
+  "hook": "Every home needs this 🥹❤️",
+  "caption": "Every home needs this 🥹❤️ #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": false,
+    "zoom": 1.02
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.01
+   }
+  ],
+  "texts": [
+   {
+    "text": "Every home needs this 🥹❤️",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5
+ },
+ {
+  "n": 63,
+  "date": "2026-12-22",
+  "hour": 19,
+  "type": "H",
+  "hook": "Bought one for my mom… now I want one too 🥹",
+  "caption": "Bought one for my mom… now I want one too 🥹 Link in bio #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0.3,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.08
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.01
+   }
+  ],
+  "texts": [
+   {
+    "text": "Bought one for my mom… now I want one too 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9
+ },
+ {
+  "n": 64,
+  "date": "2026-12-23",
+  "hour": 10,
+  "type": "H",
+  "hook": "Every room needs this 🥹🌙",
+  "caption": "Every room needs this 🥹🌙 #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.1
+   }
+  ],
+  "texts": [
+   {
+    "text": "Every room needs this 🥹🌙",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0
+ },
+ {
+  "n": 65,
+  "date": "2026-12-23",
+  "hour": 14,
+  "type": "H",
+  "hook": "Finally got it 😭📦",
+  "caption": "Finally got it 😭📦 #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.06
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.1
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.12
+   }
+  ],
+  "texts": [
+   {
+    "text": "Finally got it 😭📦",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0
+ },
+ {
+  "n": 66,
+  "date": "2026-12-23",
+  "hour": 19,
+  "type": "REPLY",
+  "hook": "Is it real fire?? 😳",
+  "caption": "Yes, we sell them 🥹 Link in bio #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.09
+   },
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.75,
+    "mirror": false,
+    "zoom": 1.05
+   }
+  ],
+  "texts": [
+   {
+    "text": "Is it real fire?? 😳",
+    "start": 0,
+    "end": 99,
+    "pos": 0.22
+   },
+   {
+    "text": "Yes, we sell them 🥹 link in bio",
+    "start": 2.2,
+    "end": 99,
+    "pos": "bottom"
+   }
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0
+ },
+ {
+  "n": 67,
+  "date": "2026-12-24",
+  "hour": 10,
+  "type": "H",
+  "hook": "Christmas Eve by the fire 🎄🥹",
+  "caption": "Christmas Eve by the fire 🎄🥹 #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.04
+   }
+  ],
+  "texts": [
+   {
+    "text": "Christmas Eve by the fire 🎄🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0
+ },
+ {
+  "n": 68,
+  "date": "2026-12-24",
+  "hour": 14,
+  "type": "H",
+  "hook": "Waiting for Santa like 🥹🔥",
+  "caption": "Waiting for Santa like 🥹🔥 #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 0,
+    "e": 2.5,
+    "sp": 1.0,
+    "mirror": true,
+    "zoom": 1.05
+   },
+   {
+    "v": "f7",
+    "s": 2.5,
+    "e": 5,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.08
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.8,
+    "mirror": true,
+    "zoom": 1.09
+   }
+  ],
+  "texts": [
+   {
+    "text": "Waiting for Santa like 🥹🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25
+ },
+ {
+  "n": 69,
+  "date": "2026-12-24",
+  "hour": 19,
+  "type": "H",
+  "hook": "Christmas Eve, lights off 🌙🎄",
+  "caption": "Christmas Eve, lights off 🌙🎄 Link in bio #diffuser #humidifier #cozyhome #christmasgift",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": true,
+    "zoom": 1.09
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.11
+   }
+  ],
+  "texts": [
+   {
+    "text": "Christmas Eve, lights off 🌙🎄",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26
+ },
+ {
+  "n": 70,
+  "date": "2026-12-25",
+  "hour": 10,
+  "type": "H",
+  "hook": "Merry Christmas from my cozy corner 🎄🔥",
+  "caption": "Merry Christmas from my cozy corner 🎄🔥 #fireplacediffuser #humidifier #cozy #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.07
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.03
+   }
+  ],
+  "texts": [
+   {
+    "text": "Merry Christmas from my cozy corner 🎄🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0
+ },
+ {
+  "n": 71,
+  "date": "2026-12-25",
+  "hour": 14,
+  "type": "H",
+  "hook": "Christmas morning, flame on 🎁🥹",
+  "caption": "Christmas morning, flame on 🎁🥹 #diffuser #aromatherapy #fireplace #cozyvibes",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.05
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.07
+   }
+  ],
+  "texts": [
+   {
+    "text": "Christmas morning, flame on 🎁🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0
+ },
+ {
+  "n": 72,
+  "date": "2026-12-25",
+  "hour": 19,
+  "type": "H",
+  "hook": "Our first Christmas with it 🥹❤️",
+  "caption": "Our first Christmas with it 🥹❤️ Link in bio #diffuser #humidifier #fireplace #christmasdecor",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": false,
+    "zoom": 1.07
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": false,
+    "zoom": 1.01
+   }
+  ],
+  "texts": [
+   {
+    "text": "Our first Christmas with it 🥹❤️",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0
+ },
+ {
+  "n": 73,
+  "date": "2026-12-26",
+  "hour": 10,
+  "type": "H",
+  "hook": "Best gift I got this year 🥹",
+  "caption": "Best gift I got this year 🥹 #diffuser #humidifier #cozy #newyear",
+  "kind": "U",
+  "scenes": [
+   {
+    "v": "f6",
+    "s": 0,
+    "e": 3,
+    "sp": 1.0,
+    "mirror": false,
+    "zoom": 1.03
+   },
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.75,
+    "mirror": true,
+    "zoom": 1.11
+   }
+  ],
+  "texts": [
+   {
+    "text": "Best gift I got this year 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5
+ },
+ {
+  "n": 74,
+  "date": "2026-12-26",
+  "hour": 14,
+  "type": "H",
+  "hook": "Still obsessed after Christmas 🥹",
+  "caption": "Still obsessed after Christmas 🥹 #fireplacediffuser #humidifier #cozyvibes #winter",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": true,
+    "zoom": 1.11
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.01
+   }
+  ],
+  "texts": [
+   {
+    "text": "Still obsessed after Christmas 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9
+ },
+ {
+  "n": 75,
+  "date": "2026-12-26",
+  "hour": 19,
+  "type": "H",
+  "hook": "Leftovers, movie, flame on 🥹",
+  "caption": "Leftovers, movie, flame on 🥹 Link in bio #diffuser #humidifier #fireplace #cozyhome",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.11
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.01
+   }
+  ],
+  "texts": [
+   {
+    "text": "Leftovers, movie, flame on 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0
+ },
+ {
+  "n": 76,
+  "date": "2026-12-27",
+  "hour": 10,
+  "type": "H",
+  "hook": "The coziest week of the year 🥹",
+  "caption": "The coziest week of the year 🥹 #diffuser #humidifier #cozy #newyear",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.09
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.04
+   }
+  ],
+  "texts": [
+   {
+    "text": "The coziest week of the year 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0
+ },
+ {
+  "n": 77,
+  "date": "2026-12-27",
+  "hour": 14,
+  "type": "H",
+  "hook": "Lights off after Christmas 🌙🥹",
+  "caption": "Lights off after Christmas 🌙🥹 #fireplacediffuser #humidifier #cozyvibes #winter",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": false,
+    "zoom": 1.05
+   }
+  ],
+  "texts": [
+   {
+    "text": "Lights off after Christmas 🌙🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0
+ },
+ {
+  "n": 78,
+  "date": "2026-12-27",
+  "hour": 19,
+  "type": "H",
+  "hook": "Every home needs this 🥹❤️",
+  "caption": "Every home needs this 🥹❤️ Link in bio #diffuser #humidifier #fireplace #cozyhome",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": false,
+    "zoom": 1.01
+   }
+  ],
+  "texts": [
+   {
+    "text": "Every home needs this 🥹❤️",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0
+ },
+ {
+  "n": 79,
+  "date": "2026-12-28",
+  "hour": 10,
+  "type": "H",
+  "hook": "It's so cozy 🥰",
+  "caption": "It's so cozy 🥰 #diffuser #humidifier #cozy #newyear",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.05
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": false,
+    "zoom": 1.01
+   }
+  ],
+  "texts": [
+   {
+    "text": "It's so cozy 🥰",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25
+ },
+ {
+  "n": 80,
+  "date": "2026-12-28",
+  "hour": 14,
+  "type": "H",
+  "hook": "My mini fireplace 🥹🔥",
+  "caption": "My mini fireplace 🥹🔥 #fireplacediffuser #humidifier #cozyvibes #winter",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": false,
+    "zoom": 1.04
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": false,
+    "zoom": 1.07
+   }
+  ],
+  "texts": [
+   {
+    "text": "My mini fireplace 🥹🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26
+ },
+ {
+  "n": 81,
+  "date": "2026-12-28",
+  "hour": 19,
+  "type": "H",
+  "hook": "Lights off, flame on 🌙🔥",
+  "caption": "Lights off, flame on 🌙🔥 Link in bio #diffuser #humidifier #fireplace #cozyhome",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": false,
+    "zoom": 1.09
+   }
+  ],
+  "texts": [
+   {
+    "text": "Lights off, flame on 🌙🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0
+ },
+ {
+  "n": 82,
+  "date": "2026-12-29",
+  "hour": 10,
+  "type": "H",
+  "hook": "Cold outside, cozy inside ❄️🥹",
+  "caption": "Cold outside, cozy inside ❄️🥹 #diffuser #humidifier #cozy #newyear",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": false,
+    "zoom": 1.07
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.08
+   }
+  ],
+  "texts": [
+   {
+    "text": "Cold outside, cozy inside ❄️🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0
+ },
+ {
+  "n": 83,
+  "date": "2026-12-29",
+  "hour": 14,
+  "type": "H",
+  "hook": "I'm obsessed 😭🔥",
+  "caption": "I'm obsessed 😭🔥 #fireplacediffuser #humidifier #cozyvibes #winter",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.01
+   }
+  ],
+  "texts": [
+   {
+    "text": "I'm obsessed 😭🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t14_tiktok_654462780.mp3",
+  "ms": 0
+ },
+ {
+  "n": 84,
+  "date": "2026-12-29",
+  "hour": 19,
+  "type": "H",
+  "hook": "My new bedtime routine 🌙🥹",
+  "caption": "My new bedtime routine 🌙🥹 Link in bio #diffuser #humidifier #fireplace #cozyhome",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.07
+   }
+  ],
+  "texts": [
+   {
+    "text": "My new bedtime routine 🌙🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t04_tiktok_992951993.mp3",
+  "ms": 0.5
+ },
+ {
+  "n": 85,
+  "date": "2026-12-30",
+  "hour": 10,
+  "type": "H",
+  "hook": "Literally perfect 🥹🤍",
+  "caption": "Literally perfect 🥹🤍 #diffuser #humidifier #cozy #newyear",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": false,
+    "zoom": 1.07
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.03
+   }
+  ],
+  "texts": [
+   {
+    "text": "Literally perfect 🥹🤍",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t09_tiktok_7318_e.mp3",
+  "ms": 9
+ },
+ {
+  "n": 86,
+  "date": "2026-12-30",
+  "hour": 14,
+  "type": "H",
+  "hook": "Winter nights hit different now ❄️🔥",
+  "caption": "Winter nights hit different now ❄️🔥 #fireplacediffuser #humidifier #cozyvibes #winter",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.11
+   }
+  ],
+  "texts": [
+   {
+    "text": "Winter nights hit different now ❄️🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t10_anastasia_original.mp3",
+  "ms": 0
+ },
+ {
+  "n": 87,
+  "date": "2026-12-30",
+  "hour": 19,
+  "type": "H",
+  "hook": "Tag someone who needs this 🥹❤️",
+  "caption": "Tag someone who needs this 🥹❤️ Link in bio #diffuser #humidifier #fireplace #cozyhome",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": false,
+    "zoom": 1.05
+   }
+  ],
+  "texts": [
+   {
+    "text": "Tag someone who needs this 🥹❤️",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "track2_ornament_136bpm.mp3",
+  "ms": 0
+ },
+ {
+  "n": 88,
+  "date": "2026-12-31",
+  "hour": 10,
+  "type": "H",
+  "hook": "New Year's Eve, cozy edition 🥂🔥",
+  "caption": "New Year's Eve, cozy edition 🥂🔥 #diffuser #humidifier #cozy #newyear",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": false,
+    "zoom": 1.04
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": false,
+    "zoom": 1.1
+   }
+  ],
+  "texts": [
+   {
+    "text": "New Year's Eve, cozy edition 🥂🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t03_rachel_rosie_home.mp3",
+  "ms": 0
+ },
+ {
+  "n": 89,
+  "date": "2026-12-31",
+  "hour": 14,
+  "type": "H",
+  "hook": "Goodbye 2026 🥹🔥",
+  "caption": "Goodbye 2026 🥹🔥 #fireplacediffuser #humidifier #cozyvibes #winter",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": false,
+    "zoom": 1.11
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.11
+   }
+  ],
+  "texts": [
+   {
+    "text": "Goodbye 2026 🥹🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t05_tiktok_7318_a.mp3",
+  "ms": 0
+ },
+ {
+  "n": 90,
+  "date": "2026-12-31",
+  "hour": 19,
+  "type": "H",
+  "hook": "Last night of the year by the fire 🥂🥹",
+  "caption": "Last night of the year by the fire 🥂🥹 Link in bio #diffuser #humidifier #fireplace #cozyhome",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": false,
+    "zoom": 1.07
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": false,
+    "zoom": 1.08
+   }
+  ],
+  "texts": [
+   {
+    "text": "Last night of the year by the fire 🥂🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t06_tiktok_7318_b.mp3",
+  "ms": 2.25
+ },
+ {
+  "n": 91,
+  "date": "2027-01-01",
+  "hour": 10,
+  "type": "H",
+  "hook": "Happy New Year from my cozy corner 🎆🥹",
+  "caption": "Happy New Year from my cozy corner 🎆🥹 #diffuser #humidifier #cozy #newyear",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.04
+   },
+   {
+    "v": "f5",
+    "s": 0.5,
+    "e": 3,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.12
+   }
+  ],
+  "texts": [
+   {
+    "text": "Happy New Year from my cozy corner 🎆🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t07_tiktok_7318_c.mp3",
+  "ms": 26
+ },
+ {
+  "n": 92,
+  "date": "2027-01-01",
+  "hour": 14,
+  "type": "H",
+  "hook": "First night of 2027 🌙🔥",
+  "caption": "First night of 2027 🌙🔥 #fireplacediffuser #humidifier #cozyvibes #winter",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.6,
+    "mirror": true,
+    "zoom": 1.01
+   },
+   {
+    "v": "f7",
+    "s": 12.4,
+    "e": 15,
+    "sp": 0.7,
+    "mirror": true,
+    "zoom": 1.01
+   }
+  ],
+  "texts": [
+   {
+    "text": "First night of 2027 🌙🔥",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t08_tiktok_7318_d.mp3",
+  "ms": 0
+ },
+ {
+  "n": 93,
+  "date": "2027-01-01",
+  "hour": 19,
+  "type": "H",
+  "hook": "New year, same cozy 🥹",
+  "caption": "New year, same cozy 🥹 Link in bio #diffuser #humidifier #fireplace #cozyhome",
+  "kind": "A",
+  "scenes": [
+   {
+    "v": "f5",
+    "s": 0,
+    "e": 3,
+    "sp": 0.5,
+    "mirror": true,
+    "zoom": 1.07
+   }
+  ],
+  "texts": [
+   {
+    "text": "New year, same cozy 🥹",
+    "start": 0,
+    "end": 99,
+    "pos": "top"
+   }
+  ],
+  "track": "t13_tiktok_1293762064.mp3",
+  "ms": 0
+ }
+]
