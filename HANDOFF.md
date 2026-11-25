@@ -10,7 +10,7 @@
 
 ### НАСТУПНИЙ КРОК (25.11, для нової сесії)
 - .claude/settings.json з дозволами Metricool/Drive/Docs додано на main власницею → у новій сесії без кнопок «Дозволити».
-- Flame Fireplace: перемонтувати рілси 02.12–01.01 за аналітикою (див. журнал на Drive 25.11 «АНАЛІТИКА»): перший кадр — дія (розпаковка/вмикання/пара/зміна кольору), хук-інтрига. Замінити в Metricool (updateScheduledPost, id рілсів у журналі сесії не збережені — знайти через getScheduledPosts по днях).
+- ✅ 25.11: 93 рілси v2 ЗМОНТОВАНІ: media/flame/reels_v2/vNN_MM-DD_HH.mp4, план projects/flame_dec/reels_v2_plan.json (hook/body/tags на кожен слот), commit 3281a4cc. ЗАЛИШИЛОСЬ: замінити в Metricool (бренд 7726937) кожен рілс 10/14/19 Chicago 02.12–01.01: getScheduledPosts за день → updateScheduledPost (media = raw URL з SHA коміту, text/титули з reels_v2_plan.json, CTA «Link in bio 🔥»). Старе: Flame Fireplace: перемонтувати рілси 02.12–01.01 за аналітикою (див. журнал на Drive 25.11 «АНАЛІТИКА»): перший кадр — дія (розпаковка/вмикання/пара/зміна кольору), хук-інтрига. Замінити в Metricool (updateScheduledPost, id рілсів у журналі сесії не збережені — знайти через getScheduledPosts по днях).
 - Потім: автовідповідь «COZY» (Flow) для Flame; «Актуальне» стиль F (media/flame/highlights/final) — власниця викладає.
 - Відкрите питання власниці: чи можна показувати олію для Flame (рілс з олією — серед найкращих).
 - Щотижня: огляд аналітики всіх акаунтів (IGRE: views, skip rate, watch time) → примножувати переможців.
