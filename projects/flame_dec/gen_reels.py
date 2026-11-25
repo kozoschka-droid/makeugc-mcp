@@ -36,10 +36,10 @@ HOOKS = [
 HOOKS2 = [
  "Holiday week, slow evenings 🔥","Cozy days between the holidays 🛋️","Christmas leftovers + flame on 🍪","Post-holiday reset mode 😌",
  "Movie marathon week needs this 🎬","Hot cocoa season isn't over ☕","The coziest week of the year ✨","Pajamas all day, flame all night 🌙",
- "New Year's Eve at home? Same 🥂","Countdown to 2027, cozy edition ⏳","Ending the year by the fire 🔥","Last sunset of 2026, then this 🌅",
- "NYE plans: blanket, snacks, flame ✨","Goodbye 2026, hello cozy 2027 🎉","Ring in the new year warm 🔥","Midnight glow 🥂",
- "Happy New Year from my cozy corner 🎆","New year, same cozy vibes 🔥","Starting 2027 slow and warm ✨","First night of the year, flame on 🌙",
- "Winter is just getting started ❄️","Treat yourself this new year 🤍","Cozy goals for 2027 ✅","Lights off, new year on 🎉"]
+ "Winter is just getting started ❄️","Ending the year by the fire 🔥","NYE plans: blanket, snacks, flame ✨","Countdown to 2027, cozy edition ⏳",
+ "New Year's Eve at home? Same 🥂","Cozy goals for 2027 ✅","Treat yourself this new year 🤍","Ring in the new year warm 🔥",
+ "Two days left of 2026 🔥","Goodbye 2026, hello cozy 2027 🎉","Last day of 2026, slow morning ☕","Last sunset of 2026, then this 🌅",
+ "Midnight glow 🥂","Happy New Year from my cozy corner 🎆","Starting 2027 slow and warm ✨","First night of the year, flame on 🌙"]
 BODY = ["Realistic 3D flame with soft mist and aroma.","Just add water and turn it on with the remote.","No heat, no smoke — safe for any room.",
         "7 flame colors to match your mood.","A cozy fireplace look for any table.","Perfect gift for cozy lovers this Christmas."]
 BODY2 = ["Realistic 3D flame with soft mist and aroma.","Just add water and turn it on with the remote.","No heat, no smoke — safe for any room.",
