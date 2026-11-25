@@ -32,7 +32,7 @@ HOOKS = [
  "Plug in. Pour water. Relax 💧","Bedroom, office, living room — anywhere 🔥","Christmas wishlist: this ✅","Why didn't I get this sooner 😭",
  "The flame that never burns 🔥","Winter evenings sorted ❄️","It's giving cabin in the woods 🪵","Last-minute gift that wows 🎁",
  "Cozy corner, finished ✅","Instant Christmas atmosphere 🎄","Lights off. Fireplace on. 🌙","The gift that keeps glowing ✨",
- "Holiday vibes without the mess 🧹","Most cozy thing I own 🤍","Merry & cozy 🔥","Christmas Eve mood 🎄","Last days to make it under the tree 🎁"]
+ "Holiday vibes without the mess 🧹","Most cozy thing I own 🤍","Merry & cozy 🔥","Christmas Eve mood 🎄","Cozy Christmas Eve vibes ✨"]
 BODY = ["Realistic 3D flame with soft mist and aroma.","Just add water and turn it on with the remote.","No heat, no smoke — safe for any room.",
         "7 flame colors to match your mood.","A cozy fireplace look for any table.","Perfect gift for cozy lovers this Christmas."]
 CTA_TEXT = "Link in bio 🔥"
