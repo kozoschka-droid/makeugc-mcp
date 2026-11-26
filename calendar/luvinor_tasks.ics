@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//luvinor//tasks//UK
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:flame-order-20261127@luvinor
+DTSTAMP:20261126T110000Z
+DTSTART;TZID=Europe/Kyiv:20261127T190000
+DTEND;TZID=Europe/Kyiv:20261127T200000
+SUMMARY:Flame Fireplace: «Актуальне» ORDER з посиланням
+DESCRIPTION:1) Перевірити посилання в профілі Instagram luvinorflamefireplace. 2) Викласти ORDER_1 і ORDER_2 зі стікером «Посилання». 3) Створити «Актуальне» ORDER з обкладинкою 0_cover_ORDER. Файли скине Claude.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Flame ORDER
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:steam-link-20261205@luvinor
+DTSTAMP:20261126T110000Z
+DTSTART;TZID=Europe/Kyiv:20261205T100000
+DTEND;TZID=Europe/Kyiv:20261205T110000
+SUMMARY:Steam Cleaner: посилання в Instagram + «Актуальне» ORDER
+DESCRIPTION:1) Instagram steamcleaner51 → Редагувати профіль → Посилання: https://luvinor.store/products/handheld-steam-cleaner (назва Shop now). 2) Скинути скрін у чат Claude. 3) Викласти «Актуальне» ORDER (файли дасть Claude).
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Steam link
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
