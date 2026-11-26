@@ -1,28 +1,23 @@
 #!/usr/bin/env python3
-"""Steam Cleaner: «Актуальне» — власний стиль «інфографіка», не схожий ні на Flame, ні на щоденні сторіз Steam:
-суцільний бірюзовий градієнт, великі цифри/заголовки Inter Black, фото товару в колі, нижня біла плашка з CTA.
+"""Steam Cleaner: «Актуальне» — стиль «журнал»: обкладинки = справжнє фото товару в дії (без іконок),
+історії = фото на весь екран + біла картка знизу з чорним текстом Playfair (як сторінка журналу).
 Розділи ORDER / HOW IT WORKS / FAQ. Цін не пишемо."""
-import os, math
+import os
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
 os.chdir(ROOT)
 P = "media/steam/photos_ai/"; O = "media/steam/highlights/final/"; os.makedirs(O, exist_ok=True)
 W, H = 1080, 1920
-FD = "/usr/share/fonts/opentype/inter/"
-def F(w, s): return ImageFont.truetype(FD + {"black": "Inter-Black.otf", "bold": "Inter-Bold.otf", "reg": "Inter-Regular.otf", "light": "Inter-Light.otf"}[w], s)
-TOP, BOT = (8, 92, 104), (40, 180, 186)
-WHITE, INK, PALE = (255, 255, 255), (10, 60, 68), (210, 240, 242)
-CTA = 'Comment "STEAM" for the link'
+PF = "assets/fonts/PlayfairDisplay.ttf"; PFI = "assets/fonts/PlayfairDisplay-Italic.ttf"; IN = "/usr/share/fonts/opentype/inter/"
+def pf(s, it=False): return ImageFont.truetype(PFI if it else PF, s)
+def inter(s, w="Regular"): return ImageFont.truetype(f"{IN}Inter-{w}.otf", s)
+INK, GREY, CREAM = (20, 20, 20), (110, 110, 110), (250, 248, 244)
+CTA = 'comment "STEAM" for the link'
 
-def bg():
-    im = Image.new("RGB", (W, H)); d = ImageDraw.Draw(im)
-    for y in range(H):
-        t = y / H; d.line([(0, y), (W, y)], fill=tuple(int(TOP[i] + (BOT[i] - TOP[i]) * t) for i in range(3)))
-    # м'які «хмарки пари»
-    ov = Image.new("RGBA", (W, H), (0, 0, 0, 0)); od = ImageDraw.Draw(ov)
-    for cx, cy, r in [(160, 260, 220), (930, 520, 260), (120, 1500, 240), (980, 1700, 200)]:
-        od.ellipse([cx - r, cy - r, cx + r, cy + r], fill=(255, 255, 255, 22))
-    return Image.alpha_composite(im.convert("RGBA"), ov.filter(ImageFilter.GaussianBlur(40)))
+def fill(path, w=W, h=H, fy=0.5):
+    im = Image.open(path).convert("RGB"); iw, ih = im.size; s = max(w / iw, h / ih)
+    im = im.resize((int(iw * s) + 1, int(ih * s) + 1)); x = (im.width - w) // 2; y = int((im.height - h) * fy)
+    return im.crop((x, y, x + w, y + h))
 
 def wrap(d, text, f, maxw):
     out, line = [], ""
@@ -30,90 +25,42 @@ def wrap(d, text, f, maxw):
         t = (line + " " + w).strip()
         if d.textlength(t, font=f) <= maxw: line = t
         else: out.append(line); line = w
-    out.append(line); return out
+    return out + [line]
 
-def circle_photo(im, path, cx, cy, r, ring=12):
-    src = Image.open(path).convert("RGB"); w, h = src.size; s = min(w, h)
-    sq = src.crop(((w - s) // 2, (h - s) // 2, (w + s) // 2, (h + s) // 2)).resize((2 * r, 2 * r))
-    m = Image.new("L", (2 * r, 2 * r), 0); ImageDraw.Draw(m).ellipse([0, 0, 2 * r - 1, 2 * r - 1], fill=255)
-    d = ImageDraw.Draw(im); d.ellipse([cx - r - ring, cy - r - ring, cx + r + ring, cy + r + ring], fill=WHITE)
-    im.paste(sq, (cx - r, cy - r), m)
+def page(name, photo, kicker, title, body, n=None, fy=0.45):
+    im = fill(P + photo, fy=fy); d = ImageDraw.Draw(im)
+    tf, bf = pf(80), inter(42)
+    tl = wrap(d, title, tf, W - 220); bl = wrap(d, body, bf, W - 220) if body else []
+    ch = 120 + len(tl) * 96 + (30 + len(bl) * 58 if bl else 0) + 150
+    top = H - 120 - ch
+    d.rectangle([60, top, W - 60, H - 120], fill=CREAM)
+    y = top + 60
+    k = kicker.upper() + (f"  ·  {n}/6" if n else ""); d.text((110, y), k, font=inter(30, "Bold"), fill=GREY); y += 70
+    for ln in tl: d.text((110, y), ln, font=tf, fill=INK); y += 96
+    if bl:
+        y += 30
+        for ln in bl: d.text((110, y), ln, font=bf, fill=(60, 60, 60)); y += 58
+    d.line([(110, H - 220), (W - 110, H - 220)], fill=(200, 196, 188), width=2)
+    d.text((110, H - 195), CTA, font=pf(40, True), fill=INK)
+    im.save(O + f"{name}.jpg", quality=93)
 
-def header(d, kicker, n=None, total=None):
-    d.text((80, 150), kicker.upper(), font=F("bold", 34), fill=PALE)
-    if n:
-        t = f"{n:02d}/{total:02d}"; f = F("bold", 34); d.text((W - 80 - d.textlength(t, font=f), 150), t, font=f, fill=PALE)
-    d.line([(80, 210), (W - 80, 210)], fill=PALE, width=3)
-
-def cta_bar(im):
-    d = ImageDraw.Draw(im); d.rounded_rectangle([80, H - 300, W - 80, H - 170], 65, fill=WHITE)
-    f = F("bold", 44); tw = d.textlength(CTA, font=f); d.text(((W - tw) / 2, H - 262), CTA, font=f, fill=INK)
-
-def text_block(d, lines, f, y, fill, lh=1.18, x=80):
-    for ln in lines: d.text((x, y), ln, font=f, fill=fill); y += int(f.size * lh)
-    return y
-
-def faq(i, q, a, ph):
-    im = bg(); d = ImageDraw.Draw(im); header(d, "Steam cleaner · FAQ", i, 6)
-    y = text_block(d, wrap(d, q, F("black", 92), W - 160), F("black", 92), 290, WHITE)
-    circle_photo(im, P + ph, W // 2, y + 330, 270)
-    d = ImageDraw.Draw(im); text_block(d, wrap(d, a, F("reg", 50), W - 160), F("reg", 50), y + 680, WHITE, 1.3)
-    cta_bar(im); im.convert("RGB").save(O + f"FAQ_{i}.jpg", quality=93)
-
-def steps(name, kicker, title, items, ph):
-    im = bg(); d = ImageDraw.Draw(im); header(d, kicker)
-    y = text_block(d, wrap(d, title, F("black", 110), W - 160), F("black", 110), 290, WHITE)
-    circle_photo(im, P + ph, W - 330, y + 250, 210)
-    d = ImageDraw.Draw(im); yy = y + 560
-    for k, it in enumerate(items):
-        d.text((80, yy - 10), str(k + 1), font=F("black", 150), fill=PALE)
-        text_block(d, wrap(d, it, F("bold", 58), W - 300), F("bold", 58), yy + 40, WHITE, 1.15, x=230); yy += 230
-    cta_bar(im); im.convert("RGB").save(O + f"{name}.jpg", quality=93)
-
-def statement(name, kicker, big, small, ph):
-    im = bg(); d = ImageDraw.Draw(im); header(d, kicker)
-    circle_photo(im, P + ph, W // 2, 720, 330)
-    d = ImageDraw.Draw(im); y = text_block(d, wrap(d, big, F("black", 104), W - 160), F("black", 104), 1150, WHITE)
-    text_block(d, wrap(d, small, F("reg", 48), W - 160), F("reg", 48), y + 20, PALE)
-    cta_bar(im); im.convert("RGB").save(O + f"{name}.jpg", quality=93)
-
-# --- обкладинки: суцільний градієнт, біла «пігулка» з іконкою, назва великими літерами
-def icon(d, key, cx, cy, c):
-    lw = 20
-    if key == "order":   # кошик
-        d.line([(cx - 170, cy - 110), (cx - 120, cy - 110), (cx - 70, cy + 70), (cx + 130, cy + 70), (cx + 170, cy - 60), (cx - 95, cy - 60)], fill=c, width=lw, joint="curve")
-        for x in (cx - 40, cx + 100): d.ellipse([x - 26, cy + 105, x + 26, cy + 157], fill=c)
-    elif key == "howto":  # хмарка пари з трьома хвильками
-        for x, y, r in [(cx - 90, cy + 40, 80), (cx + 10, cy - 10, 110), (cx + 110, cy + 45, 75)]: d.ellipse([x - r, y - r, x + r, y + r], fill=c)
-        d.rectangle([cx - 170, cy + 40, cx + 185, cy + 120], fill=c)
-        for k in range(3):
-            x = cx - 80 + k * 80
-            d.arc([x - 25, cy + 140, x + 25, cy + 200], 270, 90, fill=c, width=12); d.arc([x - 25, cy + 190, x + 25, cy + 250], 90, 270, fill=c, width=12)
-    else:                 # бульбашка чату з «?»
-        d.rounded_rectangle([cx - 170, cy - 140, cx + 170, cy + 100], 60, fill=c); d.polygon([(cx - 90, cy + 90), (cx - 130, cy + 180), (cx - 20, cy + 95)], fill=c)
-        f = F("black", 210); t = "?"; d.text((cx - d.textlength(t, font=f) / 2, cy - 175), t, font=f, fill=(24, 120, 130))
-
-def cover(key, lab, name):
-    im = bg(); cx, cy = W // 2, H // 2 - 40
-    ov = Image.new("RGBA", (W, H), (0, 0, 0, 0)); ImageDraw.Draw(ov).rounded_rectangle([cx - 300, cy - 300, cx + 300, cy + 300], 120, fill=(255, 255, 255, 45), outline=WHITE, width=6)
-    im = Image.alpha_composite(im, ov); d = ImageDraw.Draw(im)
-    icon(d, key, cx, cy - 10, WHITE)
-    f = F("black", 64); tw = d.textlength(lab.upper(), font=f); d.text(((W - tw) / 2, cy + 340), lab.upper(), font=f, fill=WHITE)
-    im.convert("RGB").save(O + f"0_cover_{name}.jpg", quality=95)
+def cover(name, photo, fy):
+    im = fill(P + photo, fy=fy)
+    im.save(O + f"0_cover_{name}.jpg", quality=95)
 
 if __name__ == "__main__":
     for f in os.listdir(O): os.remove(O + f)
-    cover("order", "Order", "ORDER"); cover("howto", "How it works", "HOW_IT_WORKS"); cover("faq", "FAQ", "FAQ")
-    statement("ORDER_1", "Steam cleaner", "One tool. Every mess.", "Kitchen · bathroom · sofa · car — with just tap water", "s09_product_kitchen.png")
-    steps("ORDER_2", "How to order", "Get yours", ['Comment "STEAM" under any video', "We send the link in DM", "Free US shipping"], "s02_faucet.png")
-    steps("HOW_1", "How it works", "3 steps", ["Fill with tap water", "Wait for the steam", "Point, steam, wipe"], "s05_oven.png")
-    steps("HOW_2", "Use it on", "Every room", ["Stovetop & oven", "Grout & shower glass", "Sofa & car seats"], "s11_tile_grout.png")
-    statement("HOW_3", "Why steam", "No scrubbing. No chemicals.", "Hot steam lifts grease and grime, you just wipe", "s10_stovetop.png")
-    FAQ = [("Do I need cleaning products?", "No! Just tap water. Hot steam loosens grease and grime on its own.", "s09_product_kitchen.png"),
-           ("Is it safe on fabric?", "Yes, use the cloth pad on sofas, mattresses and car seats. Test a hidden spot first.", "s03_sofa.png"),
-           ("What comes in the box?", "Brushes, nozzles, a hose, a scraper and a cloth pad, so you reach every spot.", "s04_laundry_shelf.png"),
-           ("Does it work on grease?", "Yes! Steam softens baked-on grease on stovetops, ovens and range hoods.", "s10_stovetop.png"),
-           ("Grout and shower glass?", "Small brush for grout, window tool for glass and mirrors. No streaks.", "s11_tile_grout.png"),
-           ("Safe around kids and pets?", "It uses only water, so no chemical residue on high chairs, toys or floors.", "s08_car_seat.png")]
-    for i, (q, a, ph) in enumerate(FAQ, 1): faq(i, q, a, ph)
+    cover("ORDER", "s09_product_kitchen.png", 0.5); cover("HOW_IT_WORKS", "s10_stovetop.png", 0.5); cover("FAQ", "s11_tile_grout.png", 0.5)
+    page("ORDER_1", "s09_product_kitchen.png", "Steam cleaner", "One tool for every mess", "Kitchen, bathroom, sofa and car. Just tap water.")
+    page("ORDER_2", "s02_faucet.png", "How to order", "Comment STEAM, get the link", "We send it in DM. Free US shipping.")
+    page("HOW_1", "s05_oven.png", "How it works", "Fill. Steam. Wipe.", "Pour in tap water, wait for the steam, point and wipe.")
+    page("HOW_2", "s11_tile_grout.png", "Use it on", "Grout, glass, stovetops, sofas", "Brushes and nozzles for every spot.")
+    page("HOW_3", "s08_car_seat.png", "Why steam", "No scrubbing. No chemicals.", "")
+    FAQ = [("Do I need cleaning products?", "No. Just tap water. Hot steam loosens grease and grime on its own.", "s09_product_kitchen.png"),
+           ("Is it safe on fabric?", "Yes, with the cloth pad on sofas, mattresses and car seats. Test a hidden spot first.", "s03_sofa.png"),
+           ("What comes in the box?", "Brushes, nozzles, a hose, a scraper and a cloth pad.", "s04_laundry_shelf.png"),
+           ("Does it work on grease?", "Yes. Steam softens baked-on grease on stovetops, ovens and range hoods.", "s10_stovetop.png"),
+           ("Grout and shower glass?", "Small brush for grout, window tool for glass and mirrors.", "s11_tile_grout.png"),
+           ("Safe around kids and pets?", "It uses only water, so no chemical residue on high chairs, toys or floors.", "s07_window.png")]
+    for i, (q, a, ph) in enumerate(FAQ, 1): page(f"FAQ_{i}", ph, "FAQ", q, a, n=i)
     print("ok")
