@@ -44,6 +44,20 @@ TAGS = ["#steamcleaner #cleaninghacks #cleantok #satisfyingclean #homehacks","#o
         "#chemicalfree #ecocleaning #cleanhome #steamclean #cleaningmotivation","#kitchencleaning #bathroomcleaning #beforeandafter #cleaningtips #homecare"]
 HTAGS = ["#holidaycleaning #christmascleaning #giftideas #steamcleaner #cleantok","#christmasgifts #giftsforher #steamcleaner #holidayhosting #cleanhome"]
 
+# 27.11 аналітика IG: найменше гортають (skip 28–35%) рілси, що з 1-го кадру показують сильний бруд крупним планом;
+# найбільше (64–70%) — ті, що починаються з вікна/скла/коробки/чистої поверхні. Тому перший кадр — лише «брудний».
+STRONG = [("s3",3,6),("s2",0,3),("s6",0,4),("s3",0,3),("s2",12,14),("s4",0,3),("s5",6.2,9),("s1",9,11),("s6",11,15),("s4",9,12)]
+HOOK_CLIP = {"oven door": ("s2",0,3), "Grout": ("s6",11,15), "Car seat": ("s4",0,3), "Sink drain": ("s3",3,6), "Range hood": ("s2",12,14),
+             "Microwave": ("s3",0,3), "Burners": ("s6",0,4), "Backsplash": ("s6",11,15), "Tile grout": ("s6",11,15),
+             "Stubborn grease": ("s6",0,4), "Mold in the fridge": ("s3",3,6), "Cabinet handles": ("s6",8,11), "Faucet": ("s4",6,9),
+             "Shower glass": ("s4",3,6), "Holiday cooking": ("s6",0,4), "After the holiday dinner": ("s2",12,14), "Holiday baking": ("s3",0,3)}
+
+def fix_opener(p, k):
+    op = next((c for key, c in HOOK_CLIP.items() if key.lower() in p["hook"].lower()), STRONG[k % len(STRONG)])
+    rest = [list(c) for c in p["scenes"] if tuple(c) != tuple(op) and tuple(c) != ("s5",0,3.2)]
+    p["scenes"] = [list(op)] + rest[:max(2, len(p["scenes"]) - 1)]
+    return p
+
 def build_plan():
     days = [date(2026,12,2)+timedelta(d) for d in range(31)]
     rng = random.Random(77); hi = iter(HOLI); gi = iter(GEN + NEWYEAR_SAFE + GEN)
@@ -80,7 +94,7 @@ def render(p):
     return out
 
 if __name__ == "__main__":
-    plan = build_plan(); json.dump(plan, open(os.path.dirname(os.path.abspath(__file__)) + "/reels_plan.json", "w"), indent=1, ensure_ascii=False)
+    plan = [fix_opener(p, i) for i, p in enumerate(build_plan())]; json.dump(plan, open(os.path.dirname(os.path.abspath(__file__)) + "/reels_plan.json", "w"), indent=1, ensure_ascii=False)
     only = [int(x) for x in sys.argv[1:]]
     for p in plan:
         if not only or p["n"] in only: print("OK", render(p), flush=True)
